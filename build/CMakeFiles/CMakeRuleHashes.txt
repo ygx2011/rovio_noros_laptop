@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+3b289c3e080c23967f8cc53ff92d1450 CMakeFiles/rovio_OTHER_FILES
