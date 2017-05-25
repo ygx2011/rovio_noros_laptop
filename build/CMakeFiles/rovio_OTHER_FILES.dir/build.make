@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/eric/work/sensors_rovio
+CMAKE_SOURCE_DIR = /home/eric/work/laptop_rovio
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/eric/work/sensors_rovio/build
+CMAKE_BINARY_DIR = /home/eric/work/laptop_rovio/build
 
 # Utility rule file for rovio_OTHER_FILES.
 
@@ -49,17 +49,17 @@ CMakeFiles/rovio_OTHER_FILES:
 
 CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o: CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o   -c /home/eric/work/sensors_rovio/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c
+	/usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o   -c /home/eric/work/laptop_rovio/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c
 
 CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /home/eric/work/sensors_rovio/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c > CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /home/eric/work/laptop_rovio/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c > CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /home/eric/work/sensors_rovio/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c -o CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /home/eric/work/laptop_rovio/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c -o CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.requires
@@ -72,17 +72,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerI
 
 CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o: CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_2)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/eric/work/sensors_rovio/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/eric/work/laptop_rovio/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp > CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp > CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.requires
@@ -93,65 +93,19 @@ CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompi
 
 CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.provides.build: CMakeFiles/rovio_OTHER_FILES.dir/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o
 
-CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o: 
-CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o: ../lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_3)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o   -c /home/eric/work/sensors_rovio/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c
-
-CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i
-
-CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s
-
-CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.requires:
-.PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.requires
-
-CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.provides: CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.requires
-	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.provides.build
-.PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.provides
-
-CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.provides.build: CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o
-
-CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o: 
-CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o: ../lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_4)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/eric/work/sensors_rovio/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
-
-CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i
-
-CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s
-
-CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.requires:
-.PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.requires
-
-CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.provides: CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.requires
-	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.provides.build
-.PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.provides
-
-CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.provides.build: CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o
-
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.o: ../lightweight_filtering/src/testGIFPrediction.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_5)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.o -c /home/eric/work/sensors_rovio/lightweight_filtering/src/testGIFPrediction.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.o -c /home/eric/work/laptop_rovio/lightweight_filtering/src/testGIFPrediction.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/src/testGIFPrediction.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/src/testGIFPrediction.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/src/testGIFPrediction.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/src/testGIFPrediction.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp.o.requires
@@ -164,17 +118,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testGIFPrediction.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.o: ../lightweight_filtering/src/testPrediction.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_6)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.o -c /home/eric/work/sensors_rovio/lightweight_filtering/src/testPrediction.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.o -c /home/eric/work/laptop_rovio/lightweight_filtering/src/testPrediction.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/src/testPrediction.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/src/testPrediction.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/src/testPrediction.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/src/testPrediction.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.o.requires
@@ -187,17 +141,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testPrediction.cpp.o.
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.o: ../lightweight_filtering/src/testState.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_7)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_5)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.o -c /home/eric/work/sensors_rovio/lightweight_filtering/src/testState.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.o -c /home/eric/work/laptop_rovio/lightweight_filtering/src/testState.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/src/testState.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/src/testState.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/src/testState.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/src/testState.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.o.requires
@@ -210,17 +164,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testState.cpp.o.provi
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.o: ../lightweight_filtering/src/testSigmaPoints.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_8)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_6)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.o -c /home/eric/work/sensors_rovio/lightweight_filtering/src/testSigmaPoints.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.o -c /home/eric/work/laptop_rovio/lightweight_filtering/src/testSigmaPoints.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/src/testSigmaPoints.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/src/testSigmaPoints.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/src/testSigmaPoints.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/src/testSigmaPoints.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.o.requires
@@ -233,17 +187,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testSigmaPoints.cpp.o
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.o: ../lightweight_filtering/src/testFilterBase.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_9)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_7)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.o -c /home/eric/work/sensors_rovio/lightweight_filtering/src/testFilterBase.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.o -c /home/eric/work/laptop_rovio/lightweight_filtering/src/testFilterBase.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/src/testFilterBase.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/src/testFilterBase.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/src/testFilterBase.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/src/testFilterBase.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.o.requires
@@ -256,17 +210,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testFilterBase.cpp.o.
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.o: ../lightweight_filtering/src/testUpdate.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_10)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_8)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.o -c /home/eric/work/sensors_rovio/lightweight_filtering/src/testUpdate.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.o -c /home/eric/work/laptop_rovio/lightweight_filtering/src/testUpdate.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/src/testUpdate.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/src/testUpdate.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/src/testUpdate.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/src/testUpdate.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.o.requires
@@ -279,17 +233,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testUpdate.cpp.o.prov
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.o: ../lightweight_filtering/src/testModelBase.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_11)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_9)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.o -c /home/eric/work/sensors_rovio/lightweight_filtering/src/testModelBase.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.o -c /home/eric/work/laptop_rovio/lightweight_filtering/src/testModelBase.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/src/testModelBase.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/src/testModelBase.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/src/testModelBase.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/src/testModelBase.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.o.requires
@@ -300,19 +254,65 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.o.p
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.o.provides.build: CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/src/testModelBase.cpp.o
 
+CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o: 
+CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o: ../lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_10)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o   -c /home/eric/work/laptop_rovio/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c
+
+CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i"
+	/usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i
+
+CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s"
+	/usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s
+
+CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.requires:
+.PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.requires
+
+CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.provides: CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.requires
+	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.provides.build
+.PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.provides
+
+CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o.provides.build: CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o
+
+CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o: 
+CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o: ../lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_11)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/eric/work/laptop_rovio/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+
+CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i
+
+CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s
+
+CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.requires:
+.PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.requires
+
+CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.provides: CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.requires
+	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.provides.build
+.PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.provides
+
+CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.provides.build: CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o
+
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.o: ../lightweight_filtering/gtest/samples/sample5_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_12)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_12)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample5_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample5_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample5_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample5_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample5_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample5_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_unittest.cc.o.requires
@@ -325,17 +325,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample5_uni
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.o: ../lightweight_filtering/gtest/samples/sample9_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_13)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_13)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample9_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample9_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample9_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample9_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample9_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample9_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_unittest.cc.o.requires
@@ -348,17 +348,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample9_uni
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.o: ../lightweight_filtering/gtest/samples/sample4.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_14)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_14)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample4.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample4.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample4.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample4.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample4.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample4.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.o.requires
@@ -371,17 +371,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4.cc.
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.o: ../lightweight_filtering/gtest/samples/sample6_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_15)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_15)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample6_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample6_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample6_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample6_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample6_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample6_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_unittest.cc.o.requires
@@ -394,17 +394,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample6_uni
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.o: ../lightweight_filtering/gtest/samples/sample1_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_16)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_16)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample1_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample1_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample1_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample1_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample1_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample1_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_unittest.cc.o.requires
@@ -417,17 +417,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1_uni
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.o: ../lightweight_filtering/gtest/samples/sample2_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_17)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_17)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample2_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample2_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample2_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample2_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample2_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample2_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_unittest.cc.o.requires
@@ -440,17 +440,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2_uni
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.o: ../lightweight_filtering/gtest/samples/sample1.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_18)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_18)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample1.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample1.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample1.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample1.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample1.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample1.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.o.requires
@@ -463,17 +463,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample1.cc.
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.o: ../lightweight_filtering/gtest/samples/sample10_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_19)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_19)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample10_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample10_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample10_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample10_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample10_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample10_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_unittest.cc.o.requires
@@ -486,17 +486,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample10_un
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.o: ../lightweight_filtering/gtest/samples/sample7_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_20)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_20)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample7_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample7_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample7_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample7_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample7_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample7_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_unittest.cc.o.requires
@@ -509,17 +509,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample7_uni
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.o: ../lightweight_filtering/gtest/samples/sample8_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_21)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_21)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample8_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample8_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample8_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample8_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample8_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample8_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_unittest.cc.o.requires
@@ -532,17 +532,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample8_uni
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.o: ../lightweight_filtering/gtest/samples/sample2.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_22)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_22)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample2.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample2.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample2.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample2.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample2.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample2.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.o.requires
@@ -555,17 +555,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample2.cc.
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.o: ../lightweight_filtering/gtest/samples/sample4_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_23)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_23)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample4_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample4_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample4_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample4_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample4_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample4_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_unittest.cc.o.requires
@@ -578,17 +578,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample4_uni
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.o: ../lightweight_filtering/gtest/samples/sample3_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_24)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_24)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample3_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample3_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample3_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample3_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample3_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample3_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_unittest.cc.o.requires
@@ -601,17 +601,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/samples/sample3_uni
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.o: ../lightweight_filtering/gtest/codegear/gtest_link.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_25)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_25)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/codegear/gtest_link.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/codegear/gtest_link.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/codegear/gtest_link.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/codegear/gtest_link.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/codegear/gtest_link.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/codegear/gtest_link.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link.cc.o.requires
@@ -624,17 +624,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_link
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.o: ../lightweight_filtering/gtest/codegear/gtest_all.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_26)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_26)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/codegear/gtest_all.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/codegear/gtest_all.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/codegear/gtest_all.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/codegear/gtest_all.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/codegear/gtest_all.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/codegear/gtest_all.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.cc.o.requires
@@ -647,17 +647,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/codegear/gtest_all.
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.o: ../lightweight_filtering/gtest/src/gtest-filepath.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_27)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_27)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-filepath.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-filepath.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-filepath.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-filepath.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-filepath.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-filepath.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.cc.o.requires
@@ -670,17 +670,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-filepath.
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.o: ../lightweight_filtering/gtest/src/gtest-typed-test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_28)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_28)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-typed-test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-typed-test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-typed-test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-typed-test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-typed-test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-typed-test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-test.cc.o.requires
@@ -693,17 +693,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-typed-tes
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.o: ../lightweight_filtering/gtest/src/gtest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_29)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_29)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.o.requires
@@ -716,17 +716,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest.cc.o.prov
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.o: ../lightweight_filtering/gtest/src/gtest-death-test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_30)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_30)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-death-test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-death-test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-death-test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-death-test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-death-test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-death-test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-test.cc.o.requires
@@ -739,17 +739,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-death-tes
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.o: ../lightweight_filtering/gtest/src/gtest-port.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_31)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_31)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-port.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-port.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-port.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-port.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-port.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-port.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.o.requires
@@ -762,17 +762,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-port.cc.o
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.o: ../lightweight_filtering/gtest/src/gtest_main.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_32)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_32)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest_main.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest_main.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest_main.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest_main.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest_main.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest_main.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.o.requires
@@ -785,17 +785,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest_main.cc.o
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.o: ../lightweight_filtering/gtest/src/gtest-printers.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_33)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_33)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-printers.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-printers.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-printers.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-printers.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-printers.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-printers.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.cc.o.requires
@@ -808,17 +808,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-printers.
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.o: ../lightweight_filtering/gtest/src/gtest-test-part.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_34)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_34)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-test-part.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-test-part.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-test-part.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-test-part.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-test-part.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-test-part.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part.cc.o.requires
@@ -831,17 +831,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-test-part
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.o: ../lightweight_filtering/gtest/src/gtest-all.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_35)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_35)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-all.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-all.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-all.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-all.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-all.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-all.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.o.requires
@@ -854,17 +854,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/src/gtest-all.cc.o.
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.o: ../lightweight_filtering/gtest/test/gtest_prod_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_36)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_36)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_prod_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_prod_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_prod_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_prod_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_prod_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_prod_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_test.cc.o.requires
@@ -877,17 +877,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prod_tes
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.o: ../lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_37)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_37)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc.o.requires
@@ -900,17 +900,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_catch_ex
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.o: ../lightweight_filtering/gtest/test/gtest-param-test_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_38)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_38)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-param-test_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-param-test_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-param-test_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-param-test_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-param-test_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-param-test_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test_test.cc.o.requires
@@ -923,17 +923,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-te
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.o: ../lightweight_filtering/gtest/test/gtest_premature_exit_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_39)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_39)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc.o.requires
@@ -946,17 +946,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_prematur
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.o: ../lightweight_filtering/gtest/test/gtest-test-part_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_40)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_40)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-test-part_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-test-part_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-test-part_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-test-part_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-test-part_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-test-part_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-part_test.cc.o.requires
@@ -969,17 +969,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-test-par
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.o: ../lightweight_filtering/gtest/test/gtest_main_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_41)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_41)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_main_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_main_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_main_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_main_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_main_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_main_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_unittest.cc.o.requires
@@ -992,17 +992,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_main_uni
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.o: ../lightweight_filtering/gtest/test/gtest-typed-test_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_42)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_42)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-typed-test_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-typed-test_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-typed-test_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-typed-test_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-typed-test_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-typed-test_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test_test.cc.o.requires
@@ -1015,17 +1015,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-te
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.o: ../lightweight_filtering/gtest/test/gtest-options_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_43)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_43)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-options_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-options_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-options_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-options_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-options_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-options_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_test.cc.o.requires
@@ -1038,17 +1038,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-options_
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.o: ../lightweight_filtering/gtest/test/gtest_help_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_44)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_44)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_help_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_help_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_help_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_help_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_help_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_help_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_test_.cc.o.requires
@@ -1061,17 +1061,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_help_tes
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.o: ../lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_45)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_45)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc.o.requires
@@ -1084,17 +1084,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-linked_p
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.o: ../lightweight_filtering/gtest/test/gtest-filepath_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_46)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_46)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-filepath_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-filepath_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-filepath_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-filepath_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-filepath_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-filepath_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath_test.cc.o.requires
@@ -1107,17 +1107,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-filepath
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.o: ../lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_47)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_47)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc.o.requires
@@ -1130,17 +1130,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_list_tes
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.o: ../lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_48)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_48)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc.o.requires
@@ -1153,17 +1153,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-te
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.o: ../lightweight_filtering/gtest/test/gtest_stress_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_49)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_49)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_stress_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_stress_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_stress_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_stress_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_stress_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_stress_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_test.cc.o.requires
@@ -1176,17 +1176,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_stress_t
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.o: ../lightweight_filtering/gtest/test/gtest_shuffle_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_50)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_50)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc.o.requires
@@ -1199,17 +1199,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_shuffle_
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.o: ../lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_51)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_51)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc.o.requires
@@ -1222,17 +1222,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_pred_imp
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.o: ../lightweight_filtering/gtest/test/production.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_52)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_52)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/production.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/production.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/production.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/production.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/production.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/production.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.o.requires
@@ -1245,17 +1245,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/production.cc.
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.o: ../lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_53)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_53)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc.o.requires
@@ -1268,17 +1268,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.o: ../lightweight_filtering/gtest/test/gtest_all_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_54)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_54)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_all_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_all_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_all_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_all_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_all_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_all_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test.cc.o.requires
@@ -1291,17 +1291,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_all_test
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.o: ../lightweight_filtering/gtest/test/gtest_env_var_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_55)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_55)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_env_var_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_env_var_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_env_var_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_env_var_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_env_var_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_env_var_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_test_.cc.o.requires
@@ -1314,17 +1314,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_env_var_
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.o: ../lightweight_filtering/gtest/test/gtest_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_56)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_56)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest.cc.o.requires
@@ -1337,17 +1337,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_unittest
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.o: ../lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_57)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_57)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc.o.requires
@@ -1360,17 +1360,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outf
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.o: ../lightweight_filtering/gtest/test/gtest_environment_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_58)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_58)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_environment_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_environment_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_environment_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_environment_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_environment_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_environment_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environment_test.cc.o.requires
@@ -1383,17 +1383,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_environm
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.o: ../lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_59)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_59)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc.o.requires
@@ -1406,17 +1406,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_uninitia
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.o: ../lightweight_filtering/gtest/test/gtest_output_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_60)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_60)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_output_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_output_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_output_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_output_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_output_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_output_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_test_.cc.o.requires
@@ -1429,17 +1429,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_output_t
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.o: ../lightweight_filtering/gtest/test/gtest-typed-test2_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_61)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_61)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc.o.requires
@@ -1452,17 +1452,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-typed-te
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.o: ../lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_62)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_62)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc.o.requires
@@ -1475,17 +1475,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_break_on
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.o: ../lightweight_filtering/gtest/test/gtest-param-test2_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_63)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_63)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-param-test2_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-param-test2_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-param-test2_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-param-test2_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-param-test2_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-param-test2_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-test2_test.cc.o.requires
@@ -1498,17 +1498,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-param-te
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.o: ../lightweight_filtering/gtest/test/gtest-unittest-api_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_64)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_64)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc.o.requires
@@ -1521,17 +1521,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-unittest
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.o: ../lightweight_filtering/gtest/test/gtest_filter_unittest_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_65)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_65)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc.o.requires
@@ -1544,17 +1544,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_filter_u
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.o: ../lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_66)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_66)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc.o.requires
@@ -1567,17 +1567,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_throw_on
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.o: ../lightweight_filtering/gtest/test/gtest-listener_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_67)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_67)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-listener_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-listener_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-listener_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-listener_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-listener_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-listener_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener_test.cc.o.requires
@@ -1590,17 +1590,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-listener
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.o: ../lightweight_filtering/gtest/test/gtest-death-test_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_68)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_68)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-death-test_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-death-test_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-death-test_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-death-test_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-death-test_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-death-test_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-test_test.cc.o.requires
@@ -1613,17 +1613,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-death-te
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.o: ../lightweight_filtering/gtest/test/gtest-tuple_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_69)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_69)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-tuple_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-tuple_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-tuple_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-tuple_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-tuple_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-tuple_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_test.cc.o.requires
@@ -1636,17 +1636,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-tuple_te
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.o: ../lightweight_filtering/gtest/test/gtest_sole_header_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_70)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_70)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_sole_header_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_sole_header_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_sole_header_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_sole_header_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_sole_header_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_sole_header_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_header_test.cc.o.requires
@@ -1659,17 +1659,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_sole_hea
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.o: ../lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_71)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_71)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc.o.requires
@@ -1682,17 +1682,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outp
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.o: ../lightweight_filtering/gtest/test/gtest-message_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_72)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_72)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-message_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-message_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-message_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-message_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-message_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-message_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_test.cc.o.requires
@@ -1705,17 +1705,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-message_
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.o: ../lightweight_filtering/gtest/test/gtest-printers_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_73)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_73)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-printers_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-printers_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-printers_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-printers_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-printers_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-printers_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers_test.cc.o.requires
@@ -1728,17 +1728,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-printers
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.o: ../lightweight_filtering/gtest/test/gtest_no_test_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_74)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_74)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc.o.requires
@@ -1751,17 +1751,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_no_test_
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.o: ../lightweight_filtering/gtest/test/gtest_repeat_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_75)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_75)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_repeat_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_repeat_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_repeat_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_repeat_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_repeat_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_repeat_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_test.cc.o.requires
@@ -1774,17 +1774,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_repeat_t
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.o: ../lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_76)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_76)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc.o.requires
@@ -1797,17 +1797,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_xml_outf
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.o: ../lightweight_filtering/gtest/test/gtest-port_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_77)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_77)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-port_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-port_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-port_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-port_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-port_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-port_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_test.cc.o.requires
@@ -1820,17 +1820,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest-port_tes
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.o: ../lightweight_filtering/gtest/test/gtest_color_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_78)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_78)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.o -c /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_color_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.o -c /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_color_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_color_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_color_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_color_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_color_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_test_.cc.o.requires
@@ -1843,17 +1843,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/gtest/test/gtest_color_te
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.o: ../src/FeatureCoordinates.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_79)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_79)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.o -c /home/eric/work/sensors_rovio/src/FeatureCoordinates.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.o -c /home/eric/work/laptop_rovio/src/FeatureCoordinates.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/src/FeatureCoordinates.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/src/FeatureCoordinates.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/src/FeatureCoordinates.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/src/FeatureCoordinates.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.o.requires
@@ -1866,17 +1866,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureCoordinates.cpp.o.provides.build: CM
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.o: ../src/FeatureDistance.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_80)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_80)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.o -c /home/eric/work/sensors_rovio/src/FeatureDistance.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.o -c /home/eric/work/laptop_rovio/src/FeatureDistance.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/src/FeatureDistance.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/src/FeatureDistance.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/src/FeatureDistance.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/src/FeatureDistance.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.o.requires
@@ -1889,17 +1889,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/src/FeatureDistance.cpp.o.provides.build: CMake
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.o: ../src/Struct_definition.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_81)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_81)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.o -c /home/eric/work/sensors_rovio/src/Struct_definition.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.o -c /home/eric/work/laptop_rovio/src/Struct_definition.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/src/Struct_definition.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/src/Struct_definition.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/src/Struct_definition.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/src/Struct_definition.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.o.requires
@@ -1912,17 +1912,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/src/Struct_definition.cpp.o.provides.build: CMa
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.o: ../src/test_patch.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_82)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_82)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.o -c /home/eric/work/sensors_rovio/src/test_patch.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.o -c /home/eric/work/laptop_rovio/src/test_patch.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/src/test_patch.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/src/test_patch.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/src/test_patch.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/src/test_patch.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.o.requires
@@ -1935,17 +1935,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/src/test_patch.cpp.o.provides.build: CMakeFiles
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.o: ../src/Camera.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_83)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_83)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.o -c /home/eric/work/sensors_rovio/src/Camera.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.o -c /home/eric/work/laptop_rovio/src/Camera.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/src/Camera.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/src/Camera.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/src/Camera.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/src/Camera.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.o.requires
@@ -1958,17 +1958,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/src/Camera.cpp.o.provides.build: CMakeFiles/rov
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.o: ../src/Scene.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_84)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_84)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.o -c /home/eric/work/sensors_rovio/src/Scene.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.o -c /home/eric/work/laptop_rovio/src/Scene.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/src/Scene.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/src/Scene.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/src/Scene.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/src/Scene.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.o.requires
@@ -1981,17 +1981,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/src/Scene.cpp.o.provides.build: CMakeFiles/rovi
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.o: ../src/test_mlp.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_85)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_85)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.o -c /home/eric/work/sensors_rovio/src/test_mlp.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.o -c /home/eric/work/laptop_rovio/src/test_mlp.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/src/test_mlp.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/src/test_mlp.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/src/test_mlp.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/src/test_mlp.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.o.requires
@@ -2004,17 +2004,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/src/test_mlp.cpp.o.provides.build: CMakeFiles/r
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.o: ../src/rovio_pipeline.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_86)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_86)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.o -c /home/eric/work/sensors_rovio/src/rovio_pipeline.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.o -c /home/eric/work/laptop_rovio/src/rovio_pipeline.cpp
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/src/rovio_pipeline.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/src/rovio_pipeline.cpp > CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/src/rovio_pipeline.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/src/rovio_pipeline.cpp -o CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.o.requires
@@ -2027,17 +2027,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/src/rovio_pipeline.cpp.o.provides.build: CMakeF
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.o: ../gtest/samples/sample5_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_87)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_87)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.o -c /home/eric/work/sensors_rovio/gtest/samples/sample5_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.o -c /home/eric/work/laptop_rovio/gtest/samples/sample5_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/samples/sample5_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/samples/sample5_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/samples/sample5_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/samples/sample5_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.o.requires
@@ -2050,17 +2050,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample5_unittest.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.o: ../gtest/samples/sample9_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_88)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_88)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.o -c /home/eric/work/sensors_rovio/gtest/samples/sample9_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.o -c /home/eric/work/laptop_rovio/gtest/samples/sample9_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/samples/sample9_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/samples/sample9_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/samples/sample9_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/samples/sample9_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.o.requires
@@ -2073,17 +2073,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample9_unittest.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.o: ../gtest/samples/sample4.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_89)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_89)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.o -c /home/eric/work/sensors_rovio/gtest/samples/sample4.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.o -c /home/eric/work/laptop_rovio/gtest/samples/sample4.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/samples/sample4.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/samples/sample4.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/samples/sample4.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/samples/sample4.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.o.requires
@@ -2096,17 +2096,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4.cc.o.provides.build: CMak
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.o: ../gtest/samples/sample6_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_90)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_90)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.o -c /home/eric/work/sensors_rovio/gtest/samples/sample6_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.o -c /home/eric/work/laptop_rovio/gtest/samples/sample6_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/samples/sample6_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/samples/sample6_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/samples/sample6_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/samples/sample6_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.o.requires
@@ -2119,17 +2119,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample6_unittest.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.o: ../gtest/samples/sample1_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_91)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_91)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.o -c /home/eric/work/sensors_rovio/gtest/samples/sample1_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.o -c /home/eric/work/laptop_rovio/gtest/samples/sample1_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/samples/sample1_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/samples/sample1_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/samples/sample1_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/samples/sample1_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.o.requires
@@ -2142,17 +2142,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1_unittest.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.o: ../gtest/samples/sample2_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_92)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_92)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.o -c /home/eric/work/sensors_rovio/gtest/samples/sample2_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.o -c /home/eric/work/laptop_rovio/gtest/samples/sample2_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/samples/sample2_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/samples/sample2_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/samples/sample2_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/samples/sample2_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.o.requires
@@ -2165,17 +2165,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2_unittest.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.o: ../gtest/samples/sample1.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_93)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_93)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.o -c /home/eric/work/sensors_rovio/gtest/samples/sample1.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.o -c /home/eric/work/laptop_rovio/gtest/samples/sample1.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/samples/sample1.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/samples/sample1.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/samples/sample1.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/samples/sample1.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.o.requires
@@ -2188,17 +2188,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample1.cc.o.provides.build: CMak
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.o: ../gtest/samples/sample10_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_94)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_94)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.o -c /home/eric/work/sensors_rovio/gtest/samples/sample10_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.o -c /home/eric/work/laptop_rovio/gtest/samples/sample10_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/samples/sample10_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/samples/sample10_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/samples/sample10_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/samples/sample10_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.o.requires
@@ -2211,17 +2211,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample10_unittest.cc.o.provides.b
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.o: ../gtest/samples/sample7_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_95)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_95)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.o -c /home/eric/work/sensors_rovio/gtest/samples/sample7_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.o -c /home/eric/work/laptop_rovio/gtest/samples/sample7_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/samples/sample7_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/samples/sample7_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/samples/sample7_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/samples/sample7_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.o.requires
@@ -2234,17 +2234,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample7_unittest.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.o: ../gtest/samples/sample8_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_96)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_96)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.o -c /home/eric/work/sensors_rovio/gtest/samples/sample8_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.o -c /home/eric/work/laptop_rovio/gtest/samples/sample8_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/samples/sample8_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/samples/sample8_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/samples/sample8_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/samples/sample8_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.o.requires
@@ -2257,17 +2257,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample8_unittest.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.o: ../gtest/samples/sample2.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_97)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_97)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.o -c /home/eric/work/sensors_rovio/gtest/samples/sample2.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.o -c /home/eric/work/laptop_rovio/gtest/samples/sample2.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/samples/sample2.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/samples/sample2.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/samples/sample2.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/samples/sample2.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.o.requires
@@ -2280,17 +2280,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample2.cc.o.provides.build: CMak
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.o: ../gtest/samples/sample4_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_98)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_98)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.o -c /home/eric/work/sensors_rovio/gtest/samples/sample4_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.o -c /home/eric/work/laptop_rovio/gtest/samples/sample4_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/samples/sample4_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/samples/sample4_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/samples/sample4_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/samples/sample4_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.o.requires
@@ -2303,17 +2303,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample4_unittest.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.o: ../gtest/samples/sample3_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_99)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_99)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.o -c /home/eric/work/sensors_rovio/gtest/samples/sample3_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.o -c /home/eric/work/laptop_rovio/gtest/samples/sample3_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/samples/sample3_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/samples/sample3_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/samples/sample3_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/samples/sample3_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.o.requires
@@ -2326,17 +2326,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/samples/sample3_unittest.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.o: ../gtest/codegear/gtest_link.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_100)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_100)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.o -c /home/eric/work/sensors_rovio/gtest/codegear/gtest_link.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.o -c /home/eric/work/laptop_rovio/gtest/codegear/gtest_link.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/codegear/gtest_link.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/codegear/gtest_link.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/codegear/gtest_link.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/codegear/gtest_link.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.o.requires
@@ -2349,17 +2349,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_link.cc.o.provides.build: 
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.o: ../gtest/codegear/gtest_all.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_101)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_101)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.o -c /home/eric/work/sensors_rovio/gtest/codegear/gtest_all.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.o -c /home/eric/work/laptop_rovio/gtest/codegear/gtest_all.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/codegear/gtest_all.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/codegear/gtest_all.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/codegear/gtest_all.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/codegear/gtest_all.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.o.requires
@@ -2372,17 +2372,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/codegear/gtest_all.cc.o.provides.build: C
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.o: ../gtest/src/gtest-filepath.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_102)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_102)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.o -c /home/eric/work/sensors_rovio/gtest/src/gtest-filepath.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.o -c /home/eric/work/laptop_rovio/gtest/src/gtest-filepath.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/src/gtest-filepath.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/src/gtest-filepath.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/src/gtest-filepath.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/src/gtest-filepath.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.o.requires
@@ -2395,17 +2395,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-filepath.cc.o.provides.build: C
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.o: ../gtest/src/gtest-typed-test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_103)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_103)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.o -c /home/eric/work/sensors_rovio/gtest/src/gtest-typed-test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.o -c /home/eric/work/laptop_rovio/gtest/src/gtest-typed-test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/src/gtest-typed-test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/src/gtest-typed-test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/src/gtest-typed-test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/src/gtest-typed-test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.o.requires
@@ -2418,17 +2418,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-typed-test.cc.o.provides.build:
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.o: ../gtest/src/gtest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_104)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_104)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.o -c /home/eric/work/sensors_rovio/gtest/src/gtest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.o -c /home/eric/work/laptop_rovio/gtest/src/gtest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/src/gtest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/src/gtest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/src/gtest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/src/gtest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.o.requires
@@ -2441,17 +2441,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest.cc.o.provides.build: CMakeFiles
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.o: ../gtest/src/gtest-death-test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_105)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_105)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.o -c /home/eric/work/sensors_rovio/gtest/src/gtest-death-test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.o -c /home/eric/work/laptop_rovio/gtest/src/gtest-death-test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/src/gtest-death-test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/src/gtest-death-test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/src/gtest-death-test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/src/gtest-death-test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.o.requires
@@ -2464,17 +2464,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-death-test.cc.o.provides.build:
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.o: ../gtest/src/gtest-port.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_106)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_106)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.o -c /home/eric/work/sensors_rovio/gtest/src/gtest-port.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.o -c /home/eric/work/laptop_rovio/gtest/src/gtest-port.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/src/gtest-port.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/src/gtest-port.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/src/gtest-port.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/src/gtest-port.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.o.requires
@@ -2487,17 +2487,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-port.cc.o.provides.build: CMake
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.o: ../gtest/src/gtest_main.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_107)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_107)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.o -c /home/eric/work/sensors_rovio/gtest/src/gtest_main.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.o -c /home/eric/work/laptop_rovio/gtest/src/gtest_main.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/src/gtest_main.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/src/gtest_main.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/src/gtest_main.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/src/gtest_main.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.o.requires
@@ -2510,17 +2510,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest_main.cc.o.provides.build: CMake
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.o: ../gtest/src/gtest-printers.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_108)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_108)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.o -c /home/eric/work/sensors_rovio/gtest/src/gtest-printers.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.o -c /home/eric/work/laptop_rovio/gtest/src/gtest-printers.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/src/gtest-printers.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/src/gtest-printers.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/src/gtest-printers.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/src/gtest-printers.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.o.requires
@@ -2533,17 +2533,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-printers.cc.o.provides.build: C
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.o: ../gtest/src/gtest-test-part.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_109)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_109)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.o -c /home/eric/work/sensors_rovio/gtest/src/gtest-test-part.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.o -c /home/eric/work/laptop_rovio/gtest/src/gtest-test-part.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/src/gtest-test-part.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/src/gtest-test-part.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/src/gtest-test-part.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/src/gtest-test-part.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.o.requires
@@ -2556,17 +2556,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-test-part.cc.o.provides.build: 
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.o: ../gtest/src/gtest-all.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_110)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_110)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.o -c /home/eric/work/sensors_rovio/gtest/src/gtest-all.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.o -c /home/eric/work/laptop_rovio/gtest/src/gtest-all.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/src/gtest-all.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/src/gtest-all.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/src/gtest-all.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/src/gtest-all.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.o.requires
@@ -2579,17 +2579,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/src/gtest-all.cc.o.provides.build: CMakeF
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.o: ../gtest/test/gtest_prod_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_111)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_111)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_prod_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_prod_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_prod_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_prod_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_prod_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_prod_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.o.requires
@@ -2602,17 +2602,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_prod_test.cc.o.provides.build:
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.o: ../gtest/test/gtest_catch_exceptions_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_112)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_112)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_catch_exceptions_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_catch_exceptions_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_catch_exceptions_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_catch_exceptions_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_catch_exceptions_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_catch_exceptions_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.o.requires
@@ -2625,17 +2625,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_catch_exceptions_test_.cc.o.pr
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.o: ../gtest/test/gtest-param-test_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_113)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_113)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-param-test_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-param-test_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-param-test_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-param-test_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-param-test_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-param-test_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.o.requires
@@ -2648,17 +2648,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test_test.cc.o.provides.
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.o: ../gtest/test/gtest_premature_exit_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_114)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_114)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_premature_exit_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_premature_exit_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_premature_exit_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_premature_exit_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_premature_exit_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_premature_exit_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.o.requires
@@ -2671,17 +2671,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_premature_exit_test.cc.o.provi
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.o: ../gtest/test/gtest-test-part_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_115)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_115)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-test-part_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-test-part_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-test-part_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-test-part_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-test-part_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-test-part_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.o.requires
@@ -2694,17 +2694,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-test-part_test.cc.o.provides.b
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.o: ../gtest/test/gtest_main_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_116)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_116)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_main_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_main_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_main_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_main_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_main_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_main_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.o.requires
@@ -2717,17 +2717,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_main_unittest.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.o: ../gtest/test/gtest-typed-test_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_117)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_117)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-typed-test_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-typed-test_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-typed-test_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-typed-test_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-typed-test_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-typed-test_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.o.requires
@@ -2740,17 +2740,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test_test.cc.o.provides.
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.o: ../gtest/test/gtest-options_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_118)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_118)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-options_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-options_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-options_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-options_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-options_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-options_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.o.requires
@@ -2763,17 +2763,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-options_test.cc.o.provides.bui
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.o: ../gtest/test/gtest_help_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_119)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_119)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_help_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_help_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_help_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_help_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_help_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_help_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.o.requires
@@ -2786,17 +2786,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_help_test_.cc.o.provides.build
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.o: ../gtest/test/gtest-linked_ptr_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_120)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_120)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-linked_ptr_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-linked_ptr_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-linked_ptr_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-linked_ptr_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-linked_ptr_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-linked_ptr_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.o.requires
@@ -2809,17 +2809,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-linked_ptr_test.cc.o.provides.
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.o: ../gtest/test/gtest-filepath_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_121)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_121)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-filepath_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-filepath_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-filepath_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-filepath_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-filepath_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-filepath_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.o.requires
@@ -2832,17 +2832,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-filepath_test.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.o: ../gtest/test/gtest_list_tests_unittest_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_122)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_122)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_list_tests_unittest_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_list_tests_unittest_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_list_tests_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_list_tests_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_list_tests_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_list_tests_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.o.requires
@@ -2855,17 +2855,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_list_tests_unittest_.cc.o.prov
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.o: ../gtest/test/gtest-death-test_ex_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_123)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_123)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-death-test_ex_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-death-test_ex_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-death-test_ex_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-death-test_ex_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-death-test_ex_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-death-test_ex_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.o.requires
@@ -2878,17 +2878,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_ex_test.cc.o.provid
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.o: ../gtest/test/gtest_stress_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_124)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_124)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_stress_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_stress_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_stress_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_stress_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_stress_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_stress_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.o.requires
@@ -2901,17 +2901,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_stress_test.cc.o.provides.buil
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.o: ../gtest/test/gtest_shuffle_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_125)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_125)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_shuffle_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_shuffle_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_shuffle_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_shuffle_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_shuffle_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_shuffle_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.o.requires
@@ -2924,17 +2924,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_shuffle_test_.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.o: ../gtest/test/gtest_pred_impl_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_126)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_126)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_pred_impl_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_pred_impl_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_pred_impl_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_pred_impl_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_pred_impl_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_pred_impl_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.o.requires
@@ -2947,17 +2947,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_pred_impl_unittest.cc.o.provid
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.o: ../gtest/test/production.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_127)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_127)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.o -c /home/eric/work/sensors_rovio/gtest/test/production.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.o -c /home/eric/work/laptop_rovio/gtest/test/production.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/production.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/production.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/production.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/production.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.o.requires
@@ -2970,17 +2970,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.o.provides.build: CMak
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.o: ../gtest/test/gtest_throw_on_failure_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_128)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_128)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_throw_on_failure_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_throw_on_failure_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_throw_on_failure_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_throw_on_failure_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_throw_on_failure_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_throw_on_failure_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.o.requires
@@ -2993,17 +2993,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_test_.cc.o.pr
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.o: ../gtest/test/gtest_all_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_129)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_129)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_all_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_all_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_all_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_all_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_all_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_all_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.o.requires
@@ -3016,17 +3016,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_all_test.cc.o.provides.build: 
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.o: ../gtest/test/gtest_env_var_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_130)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_130)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_env_var_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_env_var_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_env_var_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_env_var_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_env_var_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_env_var_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.o.requires
@@ -3039,17 +3039,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_env_var_test_.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.o: ../gtest/test/gtest_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_131)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_131)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.o.requires
@@ -3062,17 +3062,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_unittest.cc.o.provides.build: 
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.o: ../gtest/test/gtest_xml_outfile1_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_132)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_132)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_xml_outfile1_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_xml_outfile1_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_xml_outfile1_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_xml_outfile1_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_xml_outfile1_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_xml_outfile1_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.o.requires
@@ -3085,17 +3085,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile1_test_.cc.o.provid
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.o: ../gtest/test/gtest_environment_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_133)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_133)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_environment_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_environment_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_environment_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_environment_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_environment_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_environment_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.o.requires
@@ -3108,17 +3108,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_environment_test.cc.o.provides
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.o: ../gtest/test/gtest_uninitialized_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_134)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_134)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_uninitialized_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_uninitialized_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_uninitialized_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_uninitialized_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_uninitialized_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_uninitialized_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.o.requires
@@ -3131,17 +3131,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_uninitialized_test_.cc.o.provi
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.o: ../gtest/test/gtest_output_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_135)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_135)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_output_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_output_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_output_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_output_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_output_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_output_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.o.requires
@@ -3154,17 +3154,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_output_test_.cc.o.provides.bui
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.o: ../gtest/test/gtest-typed-test2_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_136)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_136)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-typed-test2_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-typed-test2_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-typed-test2_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-typed-test2_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-typed-test2_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-typed-test2_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.o.requires
@@ -3177,17 +3177,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-typed-test2_test.cc.o.provides
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.o: ../gtest/test/gtest_break_on_failure_unittest_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_137)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_137)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_break_on_failure_unittest_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_break_on_failure_unittest_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_break_on_failure_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_break_on_failure_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_break_on_failure_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_break_on_failure_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.o.requires
@@ -3200,17 +3200,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_break_on_failure_unittest_.cc.
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.o: ../gtest/test/gtest-param-test2_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_138)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_138)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-param-test2_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-param-test2_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-param-test2_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-param-test2_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-param-test2_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-param-test2_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.o.requires
@@ -3223,17 +3223,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-param-test2_test.cc.o.provides
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.o: ../gtest/test/gtest-unittest-api_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_139)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_139)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-unittest-api_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-unittest-api_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-unittest-api_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-unittest-api_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-unittest-api_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-unittest-api_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.o.requires
@@ -3246,17 +3246,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-unittest-api_test.cc.o.provide
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.o: ../gtest/test/gtest_filter_unittest_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_140)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_140)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_filter_unittest_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_filter_unittest_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_filter_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_filter_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_filter_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_filter_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.o.requires
@@ -3269,17 +3269,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_filter_unittest_.cc.o.provides
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.o: ../gtest/test/gtest_throw_on_failure_ex_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_141)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_141)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_throw_on_failure_ex_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_throw_on_failure_ex_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_throw_on_failure_ex_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_throw_on_failure_ex_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_throw_on_failure_ex_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_throw_on_failure_ex_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.o.requires
@@ -3292,17 +3292,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_throw_on_failure_ex_test.cc.o.
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.o: ../gtest/test/gtest-listener_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_142)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_142)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-listener_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-listener_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-listener_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-listener_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-listener_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-listener_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.o.requires
@@ -3315,17 +3315,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-listener_test.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.o: ../gtest/test/gtest-death-test_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_143)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_143)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-death-test_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-death-test_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-death-test_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-death-test_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-death-test_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-death-test_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.o.requires
@@ -3338,17 +3338,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-death-test_test.cc.o.provides.
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.o: ../gtest/test/gtest-tuple_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_144)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_144)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-tuple_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-tuple_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-tuple_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-tuple_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-tuple_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-tuple_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.o.requires
@@ -3361,17 +3361,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-tuple_test.cc.o.provides.build
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.o: ../gtest/test/gtest_sole_header_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_145)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_145)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_sole_header_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_sole_header_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_sole_header_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_sole_header_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_sole_header_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_sole_header_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.o.requires
@@ -3384,17 +3384,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_sole_header_test.cc.o.provides
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.o: ../gtest/test/gtest_xml_output_unittest_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_146)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_146)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_xml_output_unittest_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_xml_output_unittest_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_xml_output_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_xml_output_unittest_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_xml_output_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_xml_output_unittest_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.o.requires
@@ -3407,17 +3407,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_output_unittest_.cc.o.prov
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.o: ../gtest/test/gtest-message_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_147)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_147)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-message_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-message_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-message_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-message_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-message_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-message_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.o.requires
@@ -3430,17 +3430,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-message_test.cc.o.provides.bui
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.o: ../gtest/test/gtest-printers_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_148)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_148)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-printers_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-printers_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-printers_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-printers_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-printers_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-printers_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.o.requires
@@ -3453,17 +3453,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-printers_test.cc.o.provides.bu
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.o: ../gtest/test/gtest_no_test_unittest.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_149)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_149)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_no_test_unittest.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_no_test_unittest.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_no_test_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_no_test_unittest.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_no_test_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_no_test_unittest.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.o.requires
@@ -3476,17 +3476,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_no_test_unittest.cc.o.provides
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.o: ../gtest/test/gtest_repeat_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_150)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_150)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_repeat_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_repeat_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_repeat_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_repeat_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_repeat_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_repeat_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.o.requires
@@ -3499,17 +3499,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_repeat_test.cc.o.provides.buil
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.o: ../gtest/test/gtest_xml_outfile2_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_151)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_151)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_xml_outfile2_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_xml_outfile2_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_xml_outfile2_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_xml_outfile2_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_xml_outfile2_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_xml_outfile2_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.o.requires
@@ -3522,17 +3522,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_xml_outfile2_test_.cc.o.provid
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.o: ../gtest/test/gtest-port_test.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_152)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_152)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest-port_test.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest-port_test.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest-port_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest-port_test.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest-port_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest-port_test.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.o.requires
@@ -3545,17 +3545,17 @@ CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest-port_test.cc.o.provides.build:
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.o: 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.o: ../gtest/test/gtest_color_test_.cc
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_153)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_153)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.o -c /home/eric/work/sensors_rovio/gtest/test/gtest_color_test_.cc
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.o -c /home/eric/work/laptop_rovio/gtest/test/gtest_color_test_.cc
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/gtest/test/gtest_color_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/gtest/test/gtest_color_test_.cc > CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.i
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/gtest/test/gtest_color_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/gtest/test/gtest_color_test_.cc -o CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.s
 
 CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.o.requires:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/gtest_color_test_.cc.o.requires
@@ -3579,6 +3579,6 @@ CMakeFiles/rovio_OTHER_FILES.dir/clean:
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/clean
 
 CMakeFiles/rovio_OTHER_FILES.dir/depend:
-	cd /home/eric/work/sensors_rovio/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/eric/work/sensors_rovio /home/eric/work/sensors_rovio /home/eric/work/sensors_rovio/build /home/eric/work/sensors_rovio/build /home/eric/work/sensors_rovio/build/CMakeFiles/rovio_OTHER_FILES.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/eric/work/laptop_rovio/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/eric/work/laptop_rovio /home/eric/work/laptop_rovio /home/eric/work/laptop_rovio/build /home/eric/work/laptop_rovio/build /home/eric/work/laptop_rovio/build/CMakeFiles/rovio_OTHER_FILES.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/rovio_OTHER_FILES.dir/depend
 

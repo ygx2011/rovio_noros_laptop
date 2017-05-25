@@ -786,17 +786,17 @@ lightweight_filtering/State.hpp
 rovio/FilterStates.hpp
 ../include/rovio/rovio/FilterStates.hpp
 
-/home/eric/work/sensors_rovio/src/rovio_pipeline.cpp
+/home/eric/work/laptop_rovio/src/rovio_pipeline.cpp
 memory
 -
 rovio/RovioFilter.hpp
-/home/eric/work/sensors_rovio/src/rovio/RovioFilter.hpp
+/home/eric/work/laptop_rovio/src/rovio/RovioFilter.hpp
 rovio/RovioNode_sensors.hpp
-/home/eric/work/sensors_rovio/src/rovio/RovioNode_sensors.hpp
+/home/eric/work/laptop_rovio/src/rovio/RovioNode_sensors.hpp
 rovio/Struct_definition.hpp
-/home/eric/work/sensors_rovio/src/rovio/Struct_definition.hpp
+/home/eric/work/laptop_rovio/src/rovio/Struct_definition.hpp
 rovio/RovioScene.hpp
-/home/eric/work/sensors_rovio/src/rovio/RovioScene.hpp
+/home/eric/work/laptop_rovio/src/rovio/RovioScene.hpp
 
 /usr/include/eigen3/Eigen/Cholesky
 Core

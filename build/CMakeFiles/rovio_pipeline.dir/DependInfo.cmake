@@ -4,7 +4,7 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/eric/work/sensors_rovio/src/rovio_pipeline.cpp" "/home/eric/work/sensors_rovio/build/CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.o"
+  "/home/eric/work/laptop_rovio/src/rovio_pipeline.cpp" "/home/eric/work/laptop_rovio/build/CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -19,7 +19,7 @@ SET(CMAKE_TARGET_DEFINITIONS
 
 # Targets to which this target links.
 SET(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/eric/work/sensors_rovio/build/CMakeFiles/rovio.dir/DependInfo.cmake"
+  "/home/eric/work/laptop_rovio/build/CMakeFiles/rovio.dir/DependInfo.cmake"
   )
 
 # The include file search paths:

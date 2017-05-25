@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/eric/work/sensors_rovio
+CMAKE_SOURCE_DIR = /home/eric/work/laptop_rovio
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/eric/work/sensors_rovio/build
+CMAKE_BINARY_DIR = /home/eric/work/laptop_rovio/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/rovio.dir/depend.make
@@ -51,17 +51,17 @@ include CMakeFiles/rovio.dir/flags.make
 
 CMakeFiles/rovio.dir/src/Camera.cpp.o: CMakeFiles/rovio.dir/flags.make
 CMakeFiles/rovio.dir/src/Camera.cpp.o: ../src/Camera.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio.dir/src/Camera.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio.dir/src/Camera.cpp.o -c /home/eric/work/sensors_rovio/src/Camera.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio.dir/src/Camera.cpp.o -c /home/eric/work/laptop_rovio/src/Camera.cpp
 
 CMakeFiles/rovio.dir/src/Camera.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio.dir/src/Camera.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/src/Camera.cpp > CMakeFiles/rovio.dir/src/Camera.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/src/Camera.cpp > CMakeFiles/rovio.dir/src/Camera.cpp.i
 
 CMakeFiles/rovio.dir/src/Camera.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio.dir/src/Camera.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/src/Camera.cpp -o CMakeFiles/rovio.dir/src/Camera.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/src/Camera.cpp -o CMakeFiles/rovio.dir/src/Camera.cpp.s
 
 CMakeFiles/rovio.dir/src/Camera.cpp.o.requires:
 .PHONY : CMakeFiles/rovio.dir/src/Camera.cpp.o.requires
@@ -74,17 +74,17 @@ CMakeFiles/rovio.dir/src/Camera.cpp.o.provides.build: CMakeFiles/rovio.dir/src/C
 
 CMakeFiles/rovio.dir/src/Struct_definition.cpp.o: CMakeFiles/rovio.dir/flags.make
 CMakeFiles/rovio.dir/src/Struct_definition.cpp.o: ../src/Struct_definition.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_2)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio.dir/src/Struct_definition.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio.dir/src/Struct_definition.cpp.o -c /home/eric/work/sensors_rovio/src/Struct_definition.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio.dir/src/Struct_definition.cpp.o -c /home/eric/work/laptop_rovio/src/Struct_definition.cpp
 
 CMakeFiles/rovio.dir/src/Struct_definition.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio.dir/src/Struct_definition.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/src/Struct_definition.cpp > CMakeFiles/rovio.dir/src/Struct_definition.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/src/Struct_definition.cpp > CMakeFiles/rovio.dir/src/Struct_definition.cpp.i
 
 CMakeFiles/rovio.dir/src/Struct_definition.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio.dir/src/Struct_definition.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/src/Struct_definition.cpp -o CMakeFiles/rovio.dir/src/Struct_definition.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/src/Struct_definition.cpp -o CMakeFiles/rovio.dir/src/Struct_definition.cpp.s
 
 CMakeFiles/rovio.dir/src/Struct_definition.cpp.o.requires:
 .PHONY : CMakeFiles/rovio.dir/src/Struct_definition.cpp.o.requires
@@ -97,17 +97,17 @@ CMakeFiles/rovio.dir/src/Struct_definition.cpp.o.provides.build: CMakeFiles/rovi
 
 CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o: CMakeFiles/rovio.dir/flags.make
 CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o: ../src/FeatureCoordinates.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_3)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o -c /home/eric/work/sensors_rovio/src/FeatureCoordinates.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o -c /home/eric/work/laptop_rovio/src/FeatureCoordinates.cpp
 
 CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/src/FeatureCoordinates.cpp > CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/src/FeatureCoordinates.cpp > CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.i
 
 CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/src/FeatureCoordinates.cpp -o CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/src/FeatureCoordinates.cpp -o CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.s
 
 CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o.requires:
 .PHONY : CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o.requires
@@ -120,17 +120,17 @@ CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o.provides.build: CMakeFiles/rov
 
 CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o: CMakeFiles/rovio.dir/flags.make
 CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o: ../src/FeatureDistance.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_4)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o -c /home/eric/work/sensors_rovio/src/FeatureDistance.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o -c /home/eric/work/laptop_rovio/src/FeatureDistance.cpp
 
 CMakeFiles/rovio.dir/src/FeatureDistance.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio.dir/src/FeatureDistance.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/src/FeatureDistance.cpp > CMakeFiles/rovio.dir/src/FeatureDistance.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/src/FeatureDistance.cpp > CMakeFiles/rovio.dir/src/FeatureDistance.cpp.i
 
 CMakeFiles/rovio.dir/src/FeatureDistance.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio.dir/src/FeatureDistance.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/src/FeatureDistance.cpp -o CMakeFiles/rovio.dir/src/FeatureDistance.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/src/FeatureDistance.cpp -o CMakeFiles/rovio.dir/src/FeatureDistance.cpp.s
 
 CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o.requires:
 .PHONY : CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o.requires
@@ -143,17 +143,17 @@ CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o.provides.build: CMakeFiles/rovio.
 
 CMakeFiles/rovio.dir/src/Scene.cpp.o: CMakeFiles/rovio.dir/flags.make
 CMakeFiles/rovio.dir/src/Scene.cpp.o: ../src/Scene.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_5)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_5)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio.dir/src/Scene.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio.dir/src/Scene.cpp.o -c /home/eric/work/sensors_rovio/src/Scene.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio.dir/src/Scene.cpp.o -c /home/eric/work/laptop_rovio/src/Scene.cpp
 
 CMakeFiles/rovio.dir/src/Scene.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio.dir/src/Scene.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/src/Scene.cpp > CMakeFiles/rovio.dir/src/Scene.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/src/Scene.cpp > CMakeFiles/rovio.dir/src/Scene.cpp.i
 
 CMakeFiles/rovio.dir/src/Scene.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio.dir/src/Scene.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/src/Scene.cpp -o CMakeFiles/rovio.dir/src/Scene.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/src/Scene.cpp -o CMakeFiles/rovio.dir/src/Scene.cpp.s
 
 CMakeFiles/rovio.dir/src/Scene.cpp.o.requires:
 .PHONY : CMakeFiles/rovio.dir/src/Scene.cpp.o.requires
@@ -202,6 +202,6 @@ CMakeFiles/rovio.dir/clean:
 .PHONY : CMakeFiles/rovio.dir/clean
 
 CMakeFiles/rovio.dir/depend:
-	cd /home/eric/work/sensors_rovio/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/eric/work/sensors_rovio /home/eric/work/sensors_rovio /home/eric/work/sensors_rovio/build /home/eric/work/sensors_rovio/build /home/eric/work/sensors_rovio/build/CMakeFiles/rovio.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/eric/work/laptop_rovio/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/eric/work/laptop_rovio /home/eric/work/laptop_rovio /home/eric/work/laptop_rovio/build /home/eric/work/laptop_rovio/build /home/eric/work/laptop_rovio/build/CMakeFiles/rovio.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/rovio.dir/depend
 

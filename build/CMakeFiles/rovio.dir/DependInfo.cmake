@@ -4,11 +4,11 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/eric/work/sensors_rovio/src/Camera.cpp" "/home/eric/work/sensors_rovio/build/CMakeFiles/rovio.dir/src/Camera.cpp.o"
-  "/home/eric/work/sensors_rovio/src/FeatureCoordinates.cpp" "/home/eric/work/sensors_rovio/build/CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o"
-  "/home/eric/work/sensors_rovio/src/FeatureDistance.cpp" "/home/eric/work/sensors_rovio/build/CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o"
-  "/home/eric/work/sensors_rovio/src/Scene.cpp" "/home/eric/work/sensors_rovio/build/CMakeFiles/rovio.dir/src/Scene.cpp.o"
-  "/home/eric/work/sensors_rovio/src/Struct_definition.cpp" "/home/eric/work/sensors_rovio/build/CMakeFiles/rovio.dir/src/Struct_definition.cpp.o"
+  "/home/eric/work/laptop_rovio/src/Camera.cpp" "/home/eric/work/laptop_rovio/build/CMakeFiles/rovio.dir/src/Camera.cpp.o"
+  "/home/eric/work/laptop_rovio/src/FeatureCoordinates.cpp" "/home/eric/work/laptop_rovio/build/CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o"
+  "/home/eric/work/laptop_rovio/src/FeatureDistance.cpp" "/home/eric/work/laptop_rovio/build/CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o"
+  "/home/eric/work/laptop_rovio/src/Scene.cpp" "/home/eric/work/laptop_rovio/build/CMakeFiles/rovio.dir/src/Scene.cpp.o"
+  "/home/eric/work/laptop_rovio/src/Struct_definition.cpp" "/home/eric/work/laptop_rovio/build/CMakeFiles/rovio.dir/src/Struct_definition.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 

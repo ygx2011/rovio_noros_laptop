@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/eric/work/sensors_rovio
+CMAKE_SOURCE_DIR = /home/eric/work/laptop_rovio
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/eric/work/sensors_rovio/build
+CMAKE_BINARY_DIR = /home/eric/work/laptop_rovio/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/rovio_pipeline.dir/depend.make
@@ -51,17 +51,17 @@ include CMakeFiles/rovio_pipeline.dir/flags.make
 
 CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.o: CMakeFiles/rovio_pipeline.dir/flags.make
 CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.o: ../src/rovio_pipeline.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/sensors_rovio/build/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/eric/work/laptop_rovio/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.o -c /home/eric/work/sensors_rovio/src/rovio_pipeline.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.o -c /home/eric/work/laptop_rovio/src/rovio_pipeline.cpp
 
 CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/sensors_rovio/src/rovio_pipeline.cpp > CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/eric/work/laptop_rovio/src/rovio_pipeline.cpp > CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.i
 
 CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/sensors_rovio/src/rovio_pipeline.cpp -o CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/eric/work/laptop_rovio/src/rovio_pipeline.cpp -o CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.s
 
 CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.o.requires:
 .PHONY : CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.o.requires
@@ -131,6 +131,6 @@ CMakeFiles/rovio_pipeline.dir/clean:
 .PHONY : CMakeFiles/rovio_pipeline.dir/clean
 
 CMakeFiles/rovio_pipeline.dir/depend:
-	cd /home/eric/work/sensors_rovio/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/eric/work/sensors_rovio /home/eric/work/sensors_rovio /home/eric/work/sensors_rovio/build /home/eric/work/sensors_rovio/build /home/eric/work/sensors_rovio/build/CMakeFiles/rovio_pipeline.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/eric/work/laptop_rovio/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/eric/work/laptop_rovio /home/eric/work/laptop_rovio /home/eric/work/laptop_rovio/build /home/eric/work/laptop_rovio/build /home/eric/work/laptop_rovio/build/CMakeFiles/rovio_pipeline.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/rovio_pipeline.dir/depend
 

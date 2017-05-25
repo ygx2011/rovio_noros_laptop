@@ -476,31 +476,31 @@ Parameters.hpp
 deque
 -
 
-/home/eric/work/sensors_rovio/src/Camera.cpp
+/home/eric/work/laptop_rovio/src/Camera.cpp
 rovio/Camera.hpp
-/home/eric/work/sensors_rovio/src/rovio/Camera.hpp
+/home/eric/work/laptop_rovio/src/rovio/Camera.hpp
 yaml-cpp/yaml.h
-/home/eric/work/sensors_rovio/src/yaml-cpp/yaml.h
+/home/eric/work/laptop_rovio/src/yaml-cpp/yaml.h
 
-/home/eric/work/sensors_rovio/src/FeatureCoordinates.cpp
+/home/eric/work/laptop_rovio/src/FeatureCoordinates.cpp
 rovio/FeatureCoordinates.hpp
-/home/eric/work/sensors_rovio/src/rovio/FeatureCoordinates.hpp
+/home/eric/work/laptop_rovio/src/rovio/FeatureCoordinates.hpp
 
-/home/eric/work/sensors_rovio/src/FeatureDistance.cpp
+/home/eric/work/laptop_rovio/src/FeatureDistance.cpp
 rovio/FeatureDistance.hpp
-/home/eric/work/sensors_rovio/src/rovio/FeatureDistance.hpp
+/home/eric/work/laptop_rovio/src/rovio/FeatureDistance.hpp
 complex
 -
 iostream
 -
 
-/home/eric/work/sensors_rovio/src/Scene.cpp
+/home/eric/work/laptop_rovio/src/Scene.cpp
 rovio/Scene.hpp
 -
 
-/home/eric/work/sensors_rovio/src/Struct_definition.cpp
+/home/eric/work/laptop_rovio/src/Struct_definition.cpp
 rovio/Struct_definition.hpp
-/home/eric/work/sensors_rovio/src/rovio/Struct_definition.hpp
+/home/eric/work/laptop_rovio/src/rovio/Struct_definition.hpp
 iostream
 -
 fstream

@@ -76,7 +76,7 @@ CMakeFiles/rovio_pipeline.dir/src/rovio_pipeline.cpp.o
  ../include/rovio/SensorReader.hpp
  ../include/rovio/Struct_definition.hpp
  ../include/rovio/ZeroVelocityUpdate.hpp
- /home/eric/work/sensors_rovio/src/rovio_pipeline.cpp
+ /home/eric/work/laptop_rovio/src/rovio_pipeline.cpp
  /usr/include/eigen3/Eigen/Cholesky
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/Dense

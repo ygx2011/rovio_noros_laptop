@@ -808,141 +808,141 @@ lightweight_filtering/State.hpp
 rovio/FilterStates.hpp
 ../include/rovio/rovio/FilterStates.hpp
 
-/home/eric/work/sensors_rovio/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+/home/eric/work/laptop_rovio/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
 
-/home/eric/work/sensors_rovio/gtest/codegear/gtest_all.cc
+/home/eric/work/laptop_rovio/gtest/codegear/gtest_all.cc
 src/gtest-all.cc
-/home/eric/work/sensors_rovio/gtest/codegear/src/gtest-all.cc
+/home/eric/work/laptop_rovio/gtest/codegear/src/gtest-all.cc
 
-/home/eric/work/sensors_rovio/gtest/codegear/gtest_link.cc
+/home/eric/work/laptop_rovio/gtest/codegear/gtest_link.cc
 
-/home/eric/work/sensors_rovio/gtest/samples/prime_tables.h
+/home/eric/work/laptop_rovio/gtest/samples/prime_tables.h
 algorithm
 -
 
-/home/eric/work/sensors_rovio/gtest/samples/sample1.cc
+/home/eric/work/laptop_rovio/gtest/samples/sample1.cc
 sample1.h
-/home/eric/work/sensors_rovio/gtest/samples/sample1.h
+/home/eric/work/laptop_rovio/gtest/samples/sample1.h
 
-/home/eric/work/sensors_rovio/gtest/samples/sample1.h
+/home/eric/work/laptop_rovio/gtest/samples/sample1.h
 
-/home/eric/work/sensors_rovio/gtest/samples/sample10_unittest.cc
+/home/eric/work/laptop_rovio/gtest/samples/sample10_unittest.cc
 stdio.h
 -
 stdlib.h
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/samples/sample1_unittest.cc
+/home/eric/work/laptop_rovio/gtest/samples/sample1_unittest.cc
 limits.h
 -
 sample1.h
-/home/eric/work/sensors_rovio/gtest/samples/sample1.h
+/home/eric/work/laptop_rovio/gtest/samples/sample1.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/samples/sample2.cc
+/home/eric/work/laptop_rovio/gtest/samples/sample2.cc
 sample2.h
-/home/eric/work/sensors_rovio/gtest/samples/sample2.h
+/home/eric/work/laptop_rovio/gtest/samples/sample2.h
 string.h
 -
 
-/home/eric/work/sensors_rovio/gtest/samples/sample2.h
+/home/eric/work/laptop_rovio/gtest/samples/sample2.h
 string.h
 -
 
-/home/eric/work/sensors_rovio/gtest/samples/sample2_unittest.cc
+/home/eric/work/laptop_rovio/gtest/samples/sample2_unittest.cc
 sample2.h
-/home/eric/work/sensors_rovio/gtest/samples/sample2.h
+/home/eric/work/laptop_rovio/gtest/samples/sample2.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/samples/sample3-inl.h
+/home/eric/work/laptop_rovio/gtest/samples/sample3-inl.h
 stddef.h
 -
 
-/home/eric/work/sensors_rovio/gtest/samples/sample3_unittest.cc
+/home/eric/work/laptop_rovio/gtest/samples/sample3_unittest.cc
 sample3-inl.h
-/home/eric/work/sensors_rovio/gtest/samples/sample3-inl.h
+/home/eric/work/laptop_rovio/gtest/samples/sample3-inl.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/samples/sample4.cc
+/home/eric/work/laptop_rovio/gtest/samples/sample4.cc
 stdio.h
 -
 sample4.h
-/home/eric/work/sensors_rovio/gtest/samples/sample4.h
+/home/eric/work/laptop_rovio/gtest/samples/sample4.h
 
-/home/eric/work/sensors_rovio/gtest/samples/sample4.h
+/home/eric/work/laptop_rovio/gtest/samples/sample4.h
 
-/home/eric/work/sensors_rovio/gtest/samples/sample4_unittest.cc
+/home/eric/work/laptop_rovio/gtest/samples/sample4_unittest.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/samples/gtest/gtest.h
 sample4.h
-/home/eric/work/sensors_rovio/gtest/samples/sample4.h
+/home/eric/work/laptop_rovio/gtest/samples/sample4.h
 
-/home/eric/work/sensors_rovio/gtest/samples/sample5_unittest.cc
+/home/eric/work/laptop_rovio/gtest/samples/sample5_unittest.cc
 limits.h
 -
 time.h
 -
 sample3-inl.h
-/home/eric/work/sensors_rovio/gtest/samples/sample3-inl.h
+/home/eric/work/laptop_rovio/gtest/samples/sample3-inl.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/samples/gtest/gtest.h
 sample1.h
-/home/eric/work/sensors_rovio/gtest/samples/sample1.h
+/home/eric/work/laptop_rovio/gtest/samples/sample1.h
 
-/home/eric/work/sensors_rovio/gtest/samples/sample6_unittest.cc
+/home/eric/work/laptop_rovio/gtest/samples/sample6_unittest.cc
 prime_tables.h
-/home/eric/work/sensors_rovio/gtest/samples/prime_tables.h
+/home/eric/work/laptop_rovio/gtest/samples/prime_tables.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/samples/sample7_unittest.cc
+/home/eric/work/laptop_rovio/gtest/samples/sample7_unittest.cc
 prime_tables.h
-/home/eric/work/sensors_rovio/gtest/samples/prime_tables.h
+/home/eric/work/laptop_rovio/gtest/samples/prime_tables.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/samples/sample8_unittest.cc
+/home/eric/work/laptop_rovio/gtest/samples/sample8_unittest.cc
 prime_tables.h
-/home/eric/work/sensors_rovio/gtest/samples/prime_tables.h
+/home/eric/work/laptop_rovio/gtest/samples/prime_tables.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/samples/sample9_unittest.cc
+/home/eric/work/laptop_rovio/gtest/samples/sample9_unittest.cc
 stdio.h
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/src/gtest-all.cc
+/home/eric/work/laptop_rovio/gtest/src/gtest-all.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/gtest.h
 src/gtest.cc
-/home/eric/work/sensors_rovio/gtest/src/src/gtest.cc
+/home/eric/work/laptop_rovio/gtest/src/src/gtest.cc
 src/gtest-death-test.cc
-/home/eric/work/sensors_rovio/gtest/src/src/gtest-death-test.cc
+/home/eric/work/laptop_rovio/gtest/src/src/gtest-death-test.cc
 src/gtest-filepath.cc
-/home/eric/work/sensors_rovio/gtest/src/src/gtest-filepath.cc
+/home/eric/work/laptop_rovio/gtest/src/src/gtest-filepath.cc
 src/gtest-port.cc
-/home/eric/work/sensors_rovio/gtest/src/src/gtest-port.cc
+/home/eric/work/laptop_rovio/gtest/src/src/gtest-port.cc
 src/gtest-printers.cc
-/home/eric/work/sensors_rovio/gtest/src/src/gtest-printers.cc
+/home/eric/work/laptop_rovio/gtest/src/src/gtest-printers.cc
 src/gtest-test-part.cc
-/home/eric/work/sensors_rovio/gtest/src/src/gtest-test-part.cc
+/home/eric/work/laptop_rovio/gtest/src/src/gtest-test-part.cc
 src/gtest-typed-test.cc
-/home/eric/work/sensors_rovio/gtest/src/src/gtest-typed-test.cc
+/home/eric/work/laptop_rovio/gtest/src/src/gtest-typed-test.cc
 
-/home/eric/work/sensors_rovio/gtest/src/gtest-death-test.cc
+/home/eric/work/laptop_rovio/gtest/src/gtest-death-test.cc
 gtest/gtest-death-test.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/gtest-death-test.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/gtest-death-test.h
 gtest/internal/gtest-port.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/internal/gtest-port.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/internal/gtest-port.h
 gtest/internal/custom/gtest.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/internal/custom/gtest.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/internal/custom/gtest.h
 crt_externs.h
 -
 errno.h
@@ -964,19 +964,19 @@ sys/wait.h
 spawn.h
 -
 gtest/gtest-message.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/gtest-message.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/gtest-message.h
 gtest/internal/gtest-string.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/internal/gtest-string.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/internal/gtest-string.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/src/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/src/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/gtest/src/gtest-filepath.cc
+/home/eric/work/laptop_rovio/gtest/src/gtest-filepath.cc
 gtest/gtest-message.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/gtest-message.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/gtest-message.h
 gtest/internal/gtest-filepath.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/internal/gtest-filepath.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/internal/gtest-filepath.h
 gtest/internal/gtest-port.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/internal/gtest-port.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/internal/gtest-port.h
 stdlib.h
 -
 windows.h
@@ -992,11 +992,11 @@ limits.h
 climits
 -
 gtest/internal/gtest-string.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/internal/gtest-string.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/internal/gtest-string.h
 
-/home/eric/work/sensors_rovio/gtest/src/gtest-port.cc
+/home/eric/work/laptop_rovio/gtest/src/gtest-port.cc
 gtest/internal/gtest-port.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/internal/gtest-port.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/internal/gtest-port.h
 limits.h
 -
 stdlib.h
@@ -1034,19 +1034,19 @@ procinfo.h
 sys/types.h
 -
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/gtest-spi.h
 gtest/gtest-message.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/gtest-message.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/gtest-message.h
 gtest/internal/gtest-internal.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/internal/gtest-internal.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/internal/gtest-internal.h
 gtest/internal/gtest-string.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/internal/gtest-string.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/internal/gtest-string.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/src/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/src/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/gtest/src/gtest-printers.cc
+/home/eric/work/laptop_rovio/gtest/src/gtest-printers.cc
 gtest/gtest-printers.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/gtest-printers.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/gtest-printers.h
 ctype.h
 -
 stdio.h
@@ -1058,27 +1058,27 @@ ostream
 string
 -
 gtest/internal/gtest-port.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/internal/gtest-port.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/internal/gtest-port.h
 
-/home/eric/work/sensors_rovio/gtest/src/gtest-test-part.cc
+/home/eric/work/laptop_rovio/gtest/src/gtest-test-part.cc
 gtest/gtest-test-part.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/gtest-test-part.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/gtest-test-part.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/src/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/src/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/gtest/src/gtest-typed-test.cc
+/home/eric/work/laptop_rovio/gtest/src/gtest-typed-test.cc
 gtest/gtest-typed-test.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/gtest-typed-test.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/gtest-typed-test.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/src/gtest.cc
+/home/eric/work/laptop_rovio/gtest/src/gtest.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/gtest.h
 gtest/internal/custom/gtest.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/internal/custom/gtest.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/internal/custom/gtest.h
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/gtest-spi.h
 ctype.h
 -
 math.h
@@ -1162,33 +1162,33 @@ sys/socket.h
 sys/types.h
 -
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/src/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/src/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/gtest/src/gtest_main.cc
+/home/eric/work/laptop_rovio/gtest/src/gtest_main.cc
 stdio.h
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/src/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-death-test_ex_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-death-test_ex_test.cc
 gtest/gtest-death-test.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest-death-test.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest-death-test.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 windows.h
 -
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest-spi.h
 exception
 -
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-death-test_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-death-test_test.cc
 gtest/gtest-death-test.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest-death-test.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest-death-test.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 gtest/internal/gtest-filepath.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/internal/gtest-filepath.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/internal/gtest-filepath.h
 direct.h
 -
 unistd.h
@@ -1204,61 +1204,61 @@ stdio.h
 sys/time.h
 -
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest-spi.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-filepath_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-filepath_test.cc
 gtest/internal/gtest-filepath.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/internal/gtest-filepath.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/internal/gtest-filepath.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/test/src/gtest-internal-inl.h
 windows.h
 -
 direct.h
 -
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-linked_ptr_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-linked_ptr_test.cc
 gtest/internal/gtest-linked_ptr.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/internal/gtest-linked_ptr.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/internal/gtest-linked_ptr.h
 stdlib.h
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-listener_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-listener_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 vector
 -
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-message_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-message_test.cc
 gtest/gtest-message.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest-message.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest-message.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-options_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-options_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 windows.h
 -
 direct.h
 -
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-param-test2_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-param-test2_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 test/gtest-param-test_test.h
-/home/eric/work/sensors_rovio/gtest/test/test/gtest-param-test_test.h
+/home/eric/work/laptop_rovio/gtest/test/test/gtest-param-test_test.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-param-test_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-param-test_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 algorithm
 -
 iostream
@@ -1272,13 +1272,13 @@ string
 vector
 -
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/test/src/gtest-internal-inl.h
 test/gtest-param-test_test.h
-/home/eric/work/sensors_rovio/gtest/test/test/gtest-param-test_test.h
+/home/eric/work/laptop_rovio/gtest/test/test/gtest-param-test_test.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-port_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-port_test.cc
 gtest/internal/gtest-port.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/internal/gtest-port.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/internal/gtest-port.h
 stdio.h
 -
 time.h
@@ -1290,15 +1290,15 @@ utility
 vector
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest-spi.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-printers_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-printers_test.cc
 gtest/gtest-printers.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest-printers.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest-printers.h
 ctype.h
 -
 limits.h
@@ -1324,7 +1324,7 @@ utility
 vector
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 hash_map
 -
 hash_set
@@ -1332,83 +1332,83 @@ hash_set
 forward_list
 -
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-test-part_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-test-part_test.cc
 gtest/gtest-test-part.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest-test-part.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest-test-part.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-tuple_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-tuple_test.cc
 gtest/internal/gtest-tuple.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/internal/gtest-tuple.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/internal/gtest-tuple.h
 utility
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-typed-test2_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-typed-test2_test.cc
 vector
 -
 test/gtest-typed-test_test.h
-/home/eric/work/sensors_rovio/gtest/test/test/gtest-typed-test_test.h
+/home/eric/work/laptop_rovio/gtest/test/test/gtest-typed-test_test.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-typed-test_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-typed-test_test.cc
 test/gtest-typed-test_test.h
-/home/eric/work/sensors_rovio/gtest/test/test/gtest-typed-test_test.h
+/home/eric/work/laptop_rovio/gtest/test/test/gtest-typed-test_test.h
 set
 -
 vector
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest-unittest-api_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest-unittest-api_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 string.h
 -
 algorithm
 -
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_all_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_all_test.cc
 test/gtest-filepath_test.cc
-/home/eric/work/sensors_rovio/gtest/test/test/gtest-filepath_test.cc
+/home/eric/work/laptop_rovio/gtest/test/test/gtest-filepath_test.cc
 test/gtest-linked_ptr_test.cc
-/home/eric/work/sensors_rovio/gtest/test/test/gtest-linked_ptr_test.cc
+/home/eric/work/laptop_rovio/gtest/test/test/gtest-linked_ptr_test.cc
 test/gtest-message_test.cc
-/home/eric/work/sensors_rovio/gtest/test/test/gtest-message_test.cc
+/home/eric/work/laptop_rovio/gtest/test/test/gtest-message_test.cc
 test/gtest-options_test.cc
-/home/eric/work/sensors_rovio/gtest/test/test/gtest-options_test.cc
+/home/eric/work/laptop_rovio/gtest/test/test/gtest-options_test.cc
 test/gtest-port_test.cc
-/home/eric/work/sensors_rovio/gtest/test/test/gtest-port_test.cc
+/home/eric/work/laptop_rovio/gtest/test/test/gtest-port_test.cc
 test/gtest_pred_impl_unittest.cc
-/home/eric/work/sensors_rovio/gtest/test/test/gtest_pred_impl_unittest.cc
+/home/eric/work/laptop_rovio/gtest/test/test/gtest_pred_impl_unittest.cc
 test/gtest_prod_test.cc
-/home/eric/work/sensors_rovio/gtest/test/test/gtest_prod_test.cc
+/home/eric/work/laptop_rovio/gtest/test/test/gtest_prod_test.cc
 test/gtest-test-part_test.cc
-/home/eric/work/sensors_rovio/gtest/test/test/gtest-test-part_test.cc
+/home/eric/work/laptop_rovio/gtest/test/test/gtest-test-part_test.cc
 test/gtest-typed-test_test.cc
-/home/eric/work/sensors_rovio/gtest/test/test/gtest-typed-test_test.cc
+/home/eric/work/laptop_rovio/gtest/test/test/gtest-typed-test_test.cc
 test/gtest-typed-test2_test.cc
-/home/eric/work/sensors_rovio/gtest/test/test/gtest-typed-test2_test.cc
+/home/eric/work/laptop_rovio/gtest/test/test/gtest-typed-test2_test.cc
 test/gtest_unittest.cc
-/home/eric/work/sensors_rovio/gtest/test/test/gtest_unittest.cc
+/home/eric/work/laptop_rovio/gtest/test/test/gtest_unittest.cc
 test/production.cc
-/home/eric/work/sensors_rovio/gtest/test/test/production.cc
+/home/eric/work/laptop_rovio/gtest/test/test/production.cc
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_break_on_failure_unittest_.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_break_on_failure_unittest_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 windows.h
 -
 stdlib.h
 -
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_catch_exceptions_test_.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_catch_exceptions_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 stdio.h
 -
 stdlib.h
@@ -1420,113 +1420,113 @@ exception
 stdexcept
 -
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_color_test_.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_color_test_.cc
 stdio.h
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_env_var_test_.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_env_var_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 iostream
 -
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_environment_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_environment_test.cc
 stdlib.h
 -
 stdio.h
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_filter_unittest_.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_filter_unittest_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_help_test_.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_help_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_list_tests_unittest_.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_list_tests_unittest_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_main_unittest.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_main_unittest.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_no_test_unittest.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_no_test_unittest.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_output_test_.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_output_test_.cc
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest-spi.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/test/src/gtest-internal-inl.h
 stdlib.h
 -
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_pred_impl_unittest.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_pred_impl_unittest.cc
 iostream
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest-spi.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_premature_exit_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_premature_exit_test.cc
 stdio.h
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_prod_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_prod_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 test/production.h
-/home/eric/work/sensors_rovio/gtest/test/test/production.h
+/home/eric/work/laptop_rovio/gtest/test/test/production.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_repeat_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_repeat_test.cc
 stdlib.h
 -
 iostream
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_shuffle_test_.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_shuffle_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_sole_header_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_sole_header_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_stress_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_stress_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 iostream
 -
 vector
 -
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_throw_on_failure_ex_test.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_throw_on_failure_ex_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 stdlib.h
 -
 stdio.h
@@ -1536,9 +1536,9 @@ string.h
 stdexcept
 -
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_throw_on_failure_test_.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_throw_on_failure_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 stdio.h
 -
 stdlib.h
@@ -1546,13 +1546,13 @@ stdlib.h
 exception
 -
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_uninitialized_test_.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_uninitialized_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_unittest.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_unittest.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 limits.h
 -
 stdlib.h
@@ -1568,49 +1568,49 @@ vector
 ostream
 -
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest-spi.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_xml_outfile1_test_.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_xml_outfile1_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_xml_outfile2_test_.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_xml_outfile2_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/gtest_xml_output_unittest_.cc
+/home/eric/work/laptop_rovio/gtest/test/gtest_xml_output_unittest_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/gtest/test/production.cc
+/home/eric/work/laptop_rovio/gtest/test/production.cc
 production.h
-/home/eric/work/sensors_rovio/gtest/test/production.h
+/home/eric/work/laptop_rovio/gtest/test/production.h
 
-/home/eric/work/sensors_rovio/gtest/test/production.h
+/home/eric/work/laptop_rovio/gtest/test/production.h
 gtest/gtest_prod.h
-/home/eric/work/sensors_rovio/gtest/test/gtest/gtest_prod.h
+/home/eric/work/laptop_rovio/gtest/test/gtest/gtest_prod.h
 
-/home/eric/work/sensors_rovio/include/rovio/FeatureManager.hpp
+/home/eric/work/laptop_rovio/include/rovio/FeatureManager.hpp
 rovio/FeatureCoordinates.hpp
-/home/eric/work/sensors_rovio/include/rovio/rovio/FeatureCoordinates.hpp
+/home/eric/work/laptop_rovio/include/rovio/rovio/FeatureCoordinates.hpp
 rovio/FeatureDistance.hpp
-/home/eric/work/sensors_rovio/include/rovio/rovio/FeatureDistance.hpp
+/home/eric/work/laptop_rovio/include/rovio/rovio/FeatureDistance.hpp
 rovio/FeatureStatistics.hpp
-/home/eric/work/sensors_rovio/include/rovio/rovio/FeatureStatistics.hpp
+/home/eric/work/laptop_rovio/include/rovio/rovio/FeatureStatistics.hpp
 rovio/MultilevelPatch.hpp
-/home/eric/work/sensors_rovio/include/rovio/rovio/MultilevelPatch.hpp
+/home/eric/work/laptop_rovio/include/rovio/rovio/MultilevelPatch.hpp
 rovio/MultiCamera.hpp
-/home/eric/work/sensors_rovio/include/rovio/rovio/MultiCamera.hpp
+/home/eric/work/laptop_rovio/include/rovio/rovio/MultiCamera.hpp
 algorithm
-/home/eric/work/sensors_rovio/include/rovio/algorithm
+/home/eric/work/laptop_rovio/include/rovio/algorithm
 tuple
 -
 list
 -
 
-/home/eric/work/sensors_rovio/include/rovio/ImagePyramid.hpp
+/home/eric/work/laptop_rovio/include/rovio/ImagePyramid.hpp
 opencv2/features2d/features2d.hpp
 -
 opencv2/imgproc/imgproc.hpp
@@ -1618,153 +1618,153 @@ opencv2/imgproc/imgproc.hpp
 opencv2/highgui/highgui.hpp
 -
 rovio/FeatureCoordinates.hpp
-/home/eric/work/sensors_rovio/include/rovio/rovio/FeatureCoordinates.hpp
+/home/eric/work/laptop_rovio/include/rovio/rovio/FeatureCoordinates.hpp
 
-/home/eric/work/sensors_rovio/include/rovio/MultilevelPatchAlignment.hpp
+/home/eric/work/laptop_rovio/include/rovio/MultilevelPatchAlignment.hpp
 lightweight_filtering/common.hpp
-/home/eric/work/sensors_rovio/include/rovio/lightweight_filtering/common.hpp
+/home/eric/work/laptop_rovio/include/rovio/lightweight_filtering/common.hpp
 rovio/ImagePyramid.hpp
-/home/eric/work/sensors_rovio/include/rovio/rovio/ImagePyramid.hpp
+/home/eric/work/laptop_rovio/include/rovio/rovio/ImagePyramid.hpp
 rovio/MultilevelPatch.hpp
-/home/eric/work/sensors_rovio/include/rovio/rovio/MultilevelPatch.hpp
+/home/eric/work/laptop_rovio/include/rovio/rovio/MultilevelPatch.hpp
 rovio/FeatureCoordinates.hpp
-/home/eric/work/sensors_rovio/include/rovio/rovio/FeatureCoordinates.hpp
+/home/eric/work/laptop_rovio/include/rovio/rovio/FeatureCoordinates.hpp
 
-/home/eric/work/sensors_rovio/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+/home/eric/work/laptop_rovio/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/codegear/gtest_all.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/codegear/gtest_all.cc
 src/gtest-all.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/codegear/src/gtest-all.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/codegear/src/gtest-all.cc
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/codegear/gtest_link.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/codegear/gtest_link.cc
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/prime_tables.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/prime_tables.h
 algorithm
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample1.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample1.cc
 sample1.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample1.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample1.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample1.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample1.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample10_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample10_unittest.cc
 stdio.h
 -
 stdlib.h
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample1_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample1_unittest.cc
 limits.h
 -
 sample1.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample1.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample1.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample2.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample2.cc
 sample2.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample2.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample2.h
 string.h
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample2.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample2.h
 string.h
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample2_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample2_unittest.cc
 sample2.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample2.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample2.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample3-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample3-inl.h
 stddef.h
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample3_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample3_unittest.cc
 sample3-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample3-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample3-inl.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample4.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample4.cc
 stdio.h
 -
 sample4.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample4.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample4.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample4.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample4.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample4_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample4_unittest.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
 sample4.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample4.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample4.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample5_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample5_unittest.cc
 limits.h
 -
 time.h
 -
 sample3-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample3-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample3-inl.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
 sample1.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample1.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample1.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample6_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample6_unittest.cc
 prime_tables.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/prime_tables.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/prime_tables.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample7_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample7_unittest.cc
 prime_tables.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/prime_tables.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/prime_tables.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample8_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample8_unittest.cc
 prime_tables.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/prime_tables.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/prime_tables.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/sample9_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/sample9_unittest.cc
 stdio.h
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/samples/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-all.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-all.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/gtest.h
 src/gtest.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/src/gtest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/src/gtest.cc
 src/gtest-death-test.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/src/gtest-death-test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/src/gtest-death-test.cc
 src/gtest-filepath.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/src/gtest-filepath.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/src/gtest-filepath.cc
 src/gtest-port.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/src/gtest-port.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/src/gtest-port.cc
 src/gtest-printers.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/src/gtest-printers.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/src/gtest-printers.cc
 src/gtest-test-part.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/src/gtest-test-part.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/src/gtest-test-part.cc
 src/gtest-typed-test.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/src/gtest-typed-test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/src/gtest-typed-test.cc
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-death-test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-death-test.cc
 gtest/gtest-death-test.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/gtest-death-test.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/gtest-death-test.h
 gtest/internal/gtest-port.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-port.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-port.h
 gtest/internal/custom/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/internal/custom/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/internal/custom/gtest.h
 crt_externs.h
 -
 errno.h
@@ -1786,19 +1786,19 @@ sys/wait.h
 spawn.h
 -
 gtest/gtest-message.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/gtest-message.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/gtest-message.h
 gtest/internal/gtest-string.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-string.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-string.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-filepath.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-filepath.cc
 gtest/gtest-message.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/gtest-message.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/gtest-message.h
 gtest/internal/gtest-filepath.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-filepath.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-filepath.h
 gtest/internal/gtest-port.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-port.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-port.h
 stdlib.h
 -
 windows.h
@@ -1814,11 +1814,11 @@ limits.h
 climits
 -
 gtest/internal/gtest-string.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-string.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-string.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-port.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-port.cc
 gtest/internal/gtest-port.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-port.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-port.h
 limits.h
 -
 stdlib.h
@@ -1856,19 +1856,19 @@ procinfo.h
 sys/types.h
 -
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/gtest-spi.h
 gtest/gtest-message.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/gtest-message.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/gtest-message.h
 gtest/internal/gtest-internal.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-internal.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-internal.h
 gtest/internal/gtest-string.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-string.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-string.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-printers.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-printers.cc
 gtest/gtest-printers.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/gtest-printers.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/gtest-printers.h
 ctype.h
 -
 stdio.h
@@ -1880,27 +1880,27 @@ ostream
 string
 -
 gtest/internal/gtest-port.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-port.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/internal/gtest-port.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-test-part.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-test-part.cc
 gtest/gtest-test-part.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/gtest-test-part.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/gtest-test-part.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest-typed-test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest-typed-test.cc
 gtest/gtest-typed-test.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/gtest-typed-test.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/gtest-typed-test.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/gtest.h
 gtest/internal/custom/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/internal/custom/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/internal/custom/gtest.h
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/gtest-spi.h
 ctype.h
 -
 math.h
@@ -1984,33 +1984,33 @@ sys/socket.h
 sys/types.h
 -
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest_main.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest_main.cc
 stdio.h
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/src/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-death-test_ex_test.cc
 gtest/gtest-death-test.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest-death-test.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest-death-test.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 windows.h
 -
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest-spi.h
 exception
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-death-test_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-death-test_test.cc
 gtest/gtest-death-test.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest-death-test.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest-death-test.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 gtest/internal/gtest-filepath.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/internal/gtest-filepath.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/internal/gtest-filepath.h
 direct.h
 -
 unistd.h
@@ -2026,61 +2026,61 @@ stdio.h
 sys/time.h
 -
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest-spi.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-filepath_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-filepath_test.cc
 gtest/internal/gtest-filepath.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/internal/gtest-filepath.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/internal/gtest-filepath.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
 windows.h
 -
 direct.h
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-linked_ptr_test.cc
 gtest/internal/gtest-linked_ptr.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/internal/gtest-linked_ptr.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/internal/gtest-linked_ptr.h
 stdlib.h
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-listener_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-listener_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 vector
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-message_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-message_test.cc
 gtest/gtest-message.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest-message.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest-message.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-options_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-options_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 windows.h
 -
 direct.h
 -
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-param-test2_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-param-test2_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 test/gtest-param-test_test.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest-param-test_test.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest-param-test_test.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-param-test_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-param-test_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 algorithm
 -
 iostream
@@ -2094,13 +2094,13 @@ string
 vector
 -
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
 test/gtest-param-test_test.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest-param-test_test.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest-param-test_test.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-port_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-port_test.cc
 gtest/internal/gtest-port.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/internal/gtest-port.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/internal/gtest-port.h
 stdio.h
 -
 time.h
@@ -2112,15 +2112,15 @@ utility
 vector
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest-spi.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-printers_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-printers_test.cc
 gtest/gtest-printers.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest-printers.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest-printers.h
 ctype.h
 -
 limits.h
@@ -2146,7 +2146,7 @@ utility
 vector
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 hash_map
 -
 hash_set
@@ -2154,83 +2154,83 @@ hash_set
 forward_list
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-test-part_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-test-part_test.cc
 gtest/gtest-test-part.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest-test-part.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest-test-part.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-tuple_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-tuple_test.cc
 gtest/internal/gtest-tuple.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/internal/gtest-tuple.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/internal/gtest-tuple.h
 utility
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-typed-test2_test.cc
 vector
 -
 test/gtest-typed-test_test.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest-typed-test_test.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest-typed-test_test.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-typed-test_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-typed-test_test.cc
 test/gtest-typed-test_test.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest-typed-test_test.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest-typed-test_test.h
 set
 -
 vector
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest-unittest-api_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 string.h
 -
 algorithm
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_all_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_all_test.cc
 test/gtest-filepath_test.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest-filepath_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest-filepath_test.cc
 test/gtest-linked_ptr_test.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest-linked_ptr_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest-linked_ptr_test.cc
 test/gtest-message_test.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest-message_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest-message_test.cc
 test/gtest-options_test.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest-options_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest-options_test.cc
 test/gtest-port_test.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest-port_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest-port_test.cc
 test/gtest_pred_impl_unittest.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest_pred_impl_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest_pred_impl_unittest.cc
 test/gtest_prod_test.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest_prod_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest_prod_test.cc
 test/gtest-test-part_test.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest-test-part_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest-test-part_test.cc
 test/gtest-typed-test_test.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest-typed-test_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest-typed-test_test.cc
 test/gtest-typed-test2_test.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest-typed-test2_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest-typed-test2_test.cc
 test/gtest_unittest.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/gtest_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/gtest_unittest.cc
 test/production.cc
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/production.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/production.cc
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_break_on_failure_unittest_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 windows.h
 -
 stdlib.h
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_catch_exceptions_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 stdio.h
 -
 stdlib.h
@@ -2242,113 +2242,113 @@ exception
 stdexcept
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_color_test_.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_color_test_.cc
 stdio.h
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_env_var_test_.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_env_var_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 iostream
 -
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_environment_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_environment_test.cc
 stdlib.h
 -
 stdio.h
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_filter_unittest_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_help_test_.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_help_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_list_tests_unittest_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_main_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_main_unittest.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_no_test_unittest.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_output_test_.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_output_test_.cc
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest-spi.h
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
 stdlib.h
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_pred_impl_unittest.cc
 iostream
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest-spi.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_premature_exit_test.cc
 stdio.h
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_prod_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_prod_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 test/production.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/test/production.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/test/production.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_repeat_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_repeat_test.cc
 stdlib.h
 -
 iostream
 -
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_shuffle_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_sole_header_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_sole_header_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_stress_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_stress_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 iostream
 -
 vector
 -
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_ex_test.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 stdlib.h
 -
 stdio.h
@@ -2358,9 +2358,9 @@ string.h
 stdexcept
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_throw_on_failure_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 stdio.h
 -
 stdlib.h
@@ -2368,13 +2368,13 @@ stdlib.h
 exception
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_uninitialized_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_unittest.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_unittest.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 limits.h
 -
 stdlib.h
@@ -2390,131 +2390,131 @@ vector
 ostream
 -
 gtest/gtest-spi.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest-spi.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest-spi.h
 src/gtest-internal-inl.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/src/gtest-internal-inl.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile1_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_xml_outfile2_test_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest_xml_output_unittest_.cc
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/production.cc
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/production.cc
 production.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/production.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/production.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/production.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/production.h
 gtest/gtest_prod.h
-/home/eric/work/sensors_rovio/lightweight_filtering/gtest/test/gtest/gtest_prod.h
+/home/eric/work/laptop_rovio/lightweight_filtering/gtest/test/gtest/gtest_prod.h
 
-/home/eric/work/sensors_rovio/lightweight_filtering/src/testFilterBase.cpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/testFilterBase.cpp
 lightweight_filtering/TestClasses.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/TestClasses.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/TestClasses.hpp
 lightweight_filtering/FilterBase.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/FilterBase.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/FilterBase.hpp
 lightweight_filtering/common.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/common.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/common.hpp
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/src/gtest/gtest.h
 assert.h
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/src/testGIFPrediction.cpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/testGIFPrediction.cpp
 lightweight_filtering/TestClasses.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/TestClasses.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/TestClasses.hpp
 lightweight_filtering/common.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/common.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/common.hpp
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/src/gtest/gtest.h
 assert.h
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/src/testModelBase.cpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/testModelBase.cpp
 lightweight_filtering/State.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/State.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/State.hpp
 lightweight_filtering/ModelBase.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/ModelBase.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/ModelBase.hpp
 lightweight_filtering/common.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/common.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/common.hpp
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/src/gtest/gtest.h
 assert.h
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/src/testPrediction.cpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/testPrediction.cpp
 lightweight_filtering/TestClasses.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/TestClasses.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/TestClasses.hpp
 lightweight_filtering/common.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/common.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/common.hpp
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/src/gtest/gtest.h
 assert.h
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/src/testSigmaPoints.cpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/testSigmaPoints.cpp
 lightweight_filtering/SigmaPoints.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/SigmaPoints.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/SigmaPoints.hpp
 lightweight_filtering/State.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/State.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/State.hpp
 lightweight_filtering/common.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/common.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/common.hpp
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/src/gtest/gtest.h
 assert.h
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/src/testState.cpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/testState.cpp
 lightweight_filtering/State.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/State.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/State.hpp
 lightweight_filtering/common.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/common.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/common.hpp
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/src/gtest/gtest.h
 assert.h
 -
 
-/home/eric/work/sensors_rovio/lightweight_filtering/src/testUpdate.cpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/testUpdate.cpp
 lightweight_filtering/TestClasses.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/TestClasses.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/TestClasses.hpp
 lightweight_filtering/common.hpp
-/home/eric/work/sensors_rovio/lightweight_filtering/src/lightweight_filtering/common.hpp
+/home/eric/work/laptop_rovio/lightweight_filtering/src/lightweight_filtering/common.hpp
 gtest/gtest.h
-/home/eric/work/sensors_rovio/lightweight_filtering/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/lightweight_filtering/src/gtest/gtest.h
 assert.h
 -
 
-/home/eric/work/sensors_rovio/src/Camera.cpp
+/home/eric/work/laptop_rovio/src/Camera.cpp
 rovio/Camera.hpp
-/home/eric/work/sensors_rovio/src/rovio/Camera.hpp
+/home/eric/work/laptop_rovio/src/rovio/Camera.hpp
 yaml-cpp/yaml.h
-/home/eric/work/sensors_rovio/src/yaml-cpp/yaml.h
+/home/eric/work/laptop_rovio/src/yaml-cpp/yaml.h
 
-/home/eric/work/sensors_rovio/src/FeatureCoordinates.cpp
+/home/eric/work/laptop_rovio/src/FeatureCoordinates.cpp
 rovio/FeatureCoordinates.hpp
-/home/eric/work/sensors_rovio/src/rovio/FeatureCoordinates.hpp
+/home/eric/work/laptop_rovio/src/rovio/FeatureCoordinates.hpp
 
-/home/eric/work/sensors_rovio/src/FeatureDistance.cpp
+/home/eric/work/laptop_rovio/src/FeatureDistance.cpp
 rovio/FeatureDistance.hpp
-/home/eric/work/sensors_rovio/src/rovio/FeatureDistance.hpp
+/home/eric/work/laptop_rovio/src/rovio/FeatureDistance.hpp
 complex
 -
 iostream
 -
 
-/home/eric/work/sensors_rovio/src/Scene.cpp
+/home/eric/work/laptop_rovio/src/Scene.cpp
 rovio/Scene.hpp
 -
 
-/home/eric/work/sensors_rovio/src/Struct_definition.cpp
+/home/eric/work/laptop_rovio/src/Struct_definition.cpp
 rovio/Struct_definition.hpp
-/home/eric/work/sensors_rovio/src/rovio/Struct_definition.hpp
+/home/eric/work/laptop_rovio/src/rovio/Struct_definition.hpp
 iostream
 -
 fstream
@@ -2522,39 +2522,39 @@ fstream
 opencv2/core/core.hpp
 -
 
-/home/eric/work/sensors_rovio/src/rovio_pipeline.cpp
+/home/eric/work/laptop_rovio/src/rovio_pipeline.cpp
 memory
 -
 rovio/RovioFilter.hpp
-/home/eric/work/sensors_rovio/src/rovio/RovioFilter.hpp
+/home/eric/work/laptop_rovio/src/rovio/RovioFilter.hpp
 rovio/RovioNode_sensors.hpp
-/home/eric/work/sensors_rovio/src/rovio/RovioNode_sensors.hpp
+/home/eric/work/laptop_rovio/src/rovio/RovioNode_sensors.hpp
 rovio/Struct_definition.hpp
-/home/eric/work/sensors_rovio/src/rovio/Struct_definition.hpp
+/home/eric/work/laptop_rovio/src/rovio/Struct_definition.hpp
 rovio/RovioScene.hpp
-/home/eric/work/sensors_rovio/src/rovio/RovioScene.hpp
+/home/eric/work/laptop_rovio/src/rovio/RovioScene.hpp
 
-/home/eric/work/sensors_rovio/src/test_mlp.cpp
+/home/eric/work/laptop_rovio/src/test_mlp.cpp
 rovio/Camera.hpp
-/home/eric/work/sensors_rovio/src/rovio/Camera.hpp
+/home/eric/work/laptop_rovio/src/rovio/Camera.hpp
 gtest/gtest.h
-/home/eric/work/sensors_rovio/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/src/gtest/gtest.h
 assert.h
 -
 ../include/rovio/ImagePyramid.hpp
-/home/eric/work/sensors_rovio/include/rovio/ImagePyramid.hpp
+/home/eric/work/laptop_rovio/include/rovio/ImagePyramid.hpp
 ../include/rovio/FeatureManager.hpp
-/home/eric/work/sensors_rovio/include/rovio/FeatureManager.hpp
+/home/eric/work/laptop_rovio/include/rovio/FeatureManager.hpp
 ../include/rovio/MultilevelPatchAlignment.hpp
-/home/eric/work/sensors_rovio/include/rovio/MultilevelPatchAlignment.hpp
+/home/eric/work/laptop_rovio/include/rovio/MultilevelPatchAlignment.hpp
 
-/home/eric/work/sensors_rovio/src/test_patch.cpp
+/home/eric/work/laptop_rovio/src/test_patch.cpp
 gtest/gtest.h
-/home/eric/work/sensors_rovio/src/gtest/gtest.h
+/home/eric/work/laptop_rovio/src/gtest/gtest.h
 assert.h
 -
 rovio/Patch.hpp
-/home/eric/work/sensors_rovio/src/rovio/Patch.hpp
+/home/eric/work/laptop_rovio/src/rovio/Patch.hpp
 
 /usr/include/eigen3/Eigen/Cholesky
 Core

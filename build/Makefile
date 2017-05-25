@@ -39,10 +39,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/eric/work/sensors_rovio
+CMAKE_SOURCE_DIR = /home/eric/work/laptop_rovio
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/eric/work/sensors_rovio/build
+CMAKE_BINARY_DIR = /home/eric/work/laptop_rovio/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -110,9 +110,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/eric/work/sensors_rovio/build/CMakeFiles /home/eric/work/sensors_rovio/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/eric/work/laptop_rovio/build/CMakeFiles /home/eric/work/laptop_rovio/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/eric/work/sensors_rovio/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/eric/work/laptop_rovio/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -1834,53 +1834,53 @@ gtest/test/production.cc.s:
 	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/gtest/test/production.cc.s
 .PHONY : gtest/test/production.cc.s
 
-lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.o: lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o
-.PHONY : lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.o
+lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.o: lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o
+.PHONY : lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.o
 
 # target to build an object file
-lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o:
-	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o
-.PHONY : lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o
+lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o:
+	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o
+.PHONY : lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.o
 
-lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.i: lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i
-.PHONY : lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.i
+lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.i: lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i
+.PHONY : lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.i
 
 # target to preprocess a source file
-lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i:
-	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i
-.PHONY : lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i
+lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i:
+	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i
+.PHONY : lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.i
 
-lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.s: lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s
-.PHONY : lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.s
+lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.s: lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s
+.PHONY : lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.s
 
 # target to generate assembly for a file
-lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s:
-	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s
-.PHONY : lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s
+lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s:
+	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s
+.PHONY : lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c.s
 
-lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.o: lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o
-.PHONY : lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.o
+lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.o: lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o
+.PHONY : lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.o
 
 # target to build an object file
-lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o:
-	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o
-.PHONY : lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o
+lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o:
+	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o
+.PHONY : lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o
 
-lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.i: lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i
-.PHONY : lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.i
+lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.i: lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i
+.PHONY : lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.i
 
 # target to preprocess a source file
-lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i:
-	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i
-.PHONY : lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i
+lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i:
+	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i
+.PHONY : lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i
 
-lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.s: lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s
-.PHONY : lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.s
+lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.s: lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s
+.PHONY : lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.s
 
 # target to generate assembly for a file
-lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s:
-	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s
-.PHONY : lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s
+lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s:
+	$(MAKE) -f CMakeFiles/rovio_OTHER_FILES.dir/build.make CMakeFiles/rovio_OTHER_FILES.dir/lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s
+.PHONY : lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s
 
 lightweight_filtering/gtest/codegear/gtest_all.o: lightweight_filtering/gtest/codegear/gtest_all.cc.o
 .PHONY : lightweight_filtering/gtest/codegear/gtest_all.o
@@ -4090,12 +4090,12 @@ help:
 	@echo "... gtest/test/production.o"
 	@echo "... gtest/test/production.i"
 	@echo "... gtest/test/production.s"
-	@echo "... lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.o"
-	@echo "... lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.i"
-	@echo "... lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.s"
-	@echo "... lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.o"
-	@echo "... lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.i"
-	@echo "... lightweight_filtering/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.s"
+	@echo "... lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.o"
+	@echo "... lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.i"
+	@echo "... lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.s"
+	@echo "... lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.o"
+	@echo "... lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.i"
+	@echo "... lightweight_filtering/build.0/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.s"
 	@echo "... lightweight_filtering/gtest/codegear/gtest_all.o"
 	@echo "... lightweight_filtering/gtest/codegear/gtest_all.i"
 	@echo "... lightweight_filtering/gtest/codegear/gtest_all.s"
