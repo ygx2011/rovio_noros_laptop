@@ -17,6 +17,7 @@ sudo apt-get install build-essential
 
 Install dependencies
 ```
+
 sudo apt-get install cmake
 sudo apt-get install libopencv-dev
 sudo apt-get install libeigen3-dev
@@ -26,6 +27,25 @@ sudo apt-get install libglew-dev
 sudo apt-get install libyaml-cpp-dev
 sudo apt-get install libxmu-dev libxi-dev
 ```
+
+
+Install HIDAPI
+```
+sudo apt-get install dh-autoreconf
+sudo apt-get install git
+sudo apt-get install libudev-dev
+sudo apt-get install libusb-1.0-0-dev
+
+
+git clone git://github.com/signal11/hidapi
+
+./bootstrap
+./configure
+make
+sudo make install     <----- as root, or using sudopi.git
+
+```
+
 
 Build
 

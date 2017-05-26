@@ -12,8 +12,6 @@ add_definitions(-DROVIO_NLEVELS=${ROVIO_NLEVELS})
 add_definitions(-DROVIO_PATCHSIZE=${ROVIO_PATCHSIZE})
 add_definitions(-DROVIO_NPOSE=${ROVIO_NPOSE})
 
-add_subdirectory(lightweight_filtering)
-
 set(CMAKE_BUILD_TYPE "Release")
 set(MAKE_SCENE TRUE)
 #Add custom (non compiling) targets so launch scripts and python files show up in QT Creator's project view.
