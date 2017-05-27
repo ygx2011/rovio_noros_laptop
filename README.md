@@ -69,4 +69,4 @@ Run ,go to the root dir.
 ./run.sh
 ```
 
-Or, you can just run **all.sh** to build & run or to rebuild & rerun .
+Or, you can just run **all.sh** to build & run or to rebuild & rerun.
