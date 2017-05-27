@@ -1,8 +1,9 @@
 #!/bin/bash
+rm -rf build
 mkdir build
 cd build
 cmake ..
 make
 cd ..
-  ./build/rovio_pipeline /home/eric/data/MH_01_easy/mav0/ 890 3600
+  ./build/rovio_pipeline
 
