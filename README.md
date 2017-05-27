@@ -63,7 +63,7 @@ cmake ..
 make
 ```
 
-Run ,go to the root dir.
+Run ,go to the project dir.
 ```
 #!command
 ./run.sh
