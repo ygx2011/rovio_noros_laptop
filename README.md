@@ -37,6 +37,7 @@ sudo apt-get install libxmu-dev libxi-dev
 ```
 
 ##Install HIDAPI
+
 You can go to the official website for HIDAPI, as following:
 https://github.com/signal11/hidapi
 Or you can just run the following commands to install it.
@@ -52,6 +53,25 @@ make
 sudo make install     <----- as root, or using sudopi.git
 ```
 
+##Install Google Test
+
+Google test is a framework for writing C++ unit tests.
+
+Use the following command to install Google Test.
+```
+sudo apt-get install libgtest-dev
+```
+
+Be notice that this command only copy the source code to /usr/src/gtest. You have to build and install it yourself.
+
+```
+sudo cd /usr/src/gtest
+sudo mkdir build
+sudo cd build
+sudo cmake ..
+sudo make 
+sudo cp *.a /usr/lib
+```
 
 ##Build & Run
 
